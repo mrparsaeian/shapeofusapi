@@ -1,0 +1,38 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+        "label": "Start App",
+        "type": "shell",
+        "command": "npm start",
+        "windows": {
+            "command": "npm start"
+        },
+        "group": "none",
+        "presentation": {
+            "reveal": "always",
+            "panel": "new"
+        },
+        "runOptions": {
+            "runOn": "folderOpen"
+        },
+        "problemMatcher": []
+    },
+    {
+        "label": "Start Test",
+        "type": "shell",
+        "command": "npm run test",
+        "windows": {
+            "command": "npm run test"
+        },
+        "group": "none",
+        "presentation": {
+            "reveal": "always",
+            "panel": "new"
+        },
+        "runOptions": {
+            "runOn": "folderOpen"
+        }
+    }
+]
+}

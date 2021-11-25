@@ -1,0 +1,3733 @@
+{
+  "usersessiontimertimes": [
+    {
+      "timerTime": 0,
+      "id": "3f34fHU"
+    }
+  ],
+  "activesession": [
+    {
+      "password": "p@ssword",
+      "email": "test@test.com",
+      "userId": "108886540606931256604",
+      "usercolor": "green",
+      "id": 1,
+      "cardno": 1,
+      "informationgatherd": {
+        "pii": {
+          "1": "green",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        },
+        "userlocation": "1",
+        "nonpii": {
+          "1": ["blue", "red"],
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        }
+      }
+    },
+    {
+      "password": "p@ssword",
+      "email": "test@test.com",
+      "userId": "108886540606931256604",
+      "usercolor": "green",
+      "id": 2,
+      "cardno": 2,
+      "informationgatherd": {
+        "pii": {
+          "1": "green",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        },
+        "userlocation": "1",
+        "nonpii": {
+          "1": ["blue", "red"],
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        }
+      }
+    },
+    {
+      "password": "p@ssword",
+      "email": "test@test.com",
+      "userId": "108886540606931256604",
+      "usercolor": "green",
+      "id": 3,
+      "cardno": 3,
+      "informationgatherd": {
+        "pii": {
+          "1": "green",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        },
+        "userlocation": "1",
+        "nonpii": {
+          "1": ["blue", "red"],
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        }
+      }
+    },
+    {
+      "password": "p@ssword",
+      "email": "test@test.com",
+      "userId": "108886540606931256604",
+      "usercolor": "red",
+      "id": 4,
+      "cardno": 4,
+      "informationgatherd": {
+        "pii": {
+          "1": "green",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        },
+        "userlocation": "1",
+        "nonpii": {
+          "1": ["blue", "red"],
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        }
+      }
+    },
+    {
+      "password": "p@ssword",
+      "email": "test@test.com",
+      "userId": "108886540606931256604",
+      "usercolor": "red",
+      "id": 5,
+      "cardno": 5,
+      "informationgatherd": {
+        "pii": {
+          "1": "green",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        },
+        "userlocation": "1",
+        "nonpii": {
+          "1": ["blue", "red"],
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        }
+      }
+    },
+    {
+      "password": "p@ssword",
+      "email": "test@test.com",
+      "userId": "108886540606931256604",
+      "usercolor": "red",
+      "id": 6,
+      "cardno": 6,
+      "informationgatherd": {
+        "pii": {
+          "1": "green",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        },
+        "userlocation": "1",
+        "nonpii": {
+          "1": ["blue", "red"],
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        }
+      }
+    },
+    {
+      "password": "p@ssword",
+      "email": "test@test.com",
+      "userId": "108886540606931256604",
+      "usercolor": "blue",
+      "id": 7,
+      "cardno": 7,
+      "informationgatherd": {
+        "pii": {
+          "1": "green",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        },
+        "userlocation": "1",
+        "nonpii": {
+          "1": ["blue", "red"],
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        }
+      }
+    },
+    {
+      "password": "p@ssword",
+      "email": "test@test.com",
+      "userId": "108886540606931256604",
+      "usercolor": "blue",
+      "id": 8,
+      "cardno": 8,
+      "informationgatherd": {
+        "pii": {
+          "1": "green",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        },
+        "userlocation": "1",
+        "nonpii": {
+          "1": ["blue", "red"],
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        }
+      }
+    },
+    {
+      "password": "p@ssword",
+      "email": "test@test.com",
+      "userId": "108886540606931256604",
+      "usercolor": "blue",
+      "id": 9,
+      "cardno": 9,
+      "informationgatherd": {
+        "pii": {
+          "1": "green",
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        },
+        "userlocation": "1",
+        "nonpii": {
+          "1": ["blue", "red"],
+          "2": null,
+          "3": null,
+          "4": null,
+          "5": null,
+          "6": null,
+          "7": null,
+          "8": null,
+          "9": null
+        }
+      }
+    }
+  ],
+  "activeusersinactiverooms": [
+    {
+      "password": "p@ssword",
+      "email": "test@test.com",
+      "userId": "108886540606931256604",
+      "usercolor": "green",
+      "id": "WD77f7d",
+      "cardno": 1
+    },
+    {
+      "password": "p@ssword",
+      "email": "test@test.com",
+      "userId": "108886540606931256604",
+      "usercolor": "green",
+      "id": "GGyyH88",
+      "cardno": 2
+    },
+    {
+      "password": "p@ssword",
+      "email": "test@test.com",
+      "userId": "108886540606931256604",
+      "usercolor": "green",
+      "id": "f68UsYG",
+      "cardno": 3
+    },
+    {
+      "password": "p@ssword",
+      "email": "test@test.com",
+      "userId": "108886540606931256604",
+      "usercolor": "red",
+      "id": "YgGG6t6",
+      "cardno": 4
+    },
+    {
+      "password": "p@ssword",
+      "email": "test@test.com",
+      "userId": "108886540606931256604",
+      "usercolor": "red",
+      "id": "t7tvf7g",
+      "cardno": 5
+    },
+    {
+      "password": "p@ssword",
+      "email": "test@test.com",
+      "userId": "108886540606931256604",
+      "usercolor": "red",
+      "id": "887Hgyg",
+      "cardno": 6
+    },
+    {
+      "password": "p@ssword",
+      "email": "test@test.com",
+      "userId": "108886540606931256604",
+      "usercolor": "blue",
+      "id": "jhu78HJ",
+      "cardno": 7
+    },
+    {
+      "password": "p@ssword",
+      "email": "test@test.com",
+      "userId": "108886540606931256604",
+      "usercolor": "blue",
+      "id": "hH77gGJ",
+      "cardno": 8
+    },
+    {
+      "password": "p@ssword",
+      "email": "test@test.com",
+      "userId": "108886540606931256604",
+      "usercolor": "blue",
+      "id": "88JHkH8",
+      "cardno": 9
+    }
+  ],
+  "rooms": [
+    {
+      "id": "f4343433",
+      "noofusers": 5,
+      "isfull": false,
+      "isplaying": false,
+      "isfinished": false,
+      "isaborted": false,
+      "members": ["343f343f"]
+    }
+  ],
+  "connectedusers": [
+    {
+      "id": "343f343f",
+      "email": "ddfasd@gmail.com",
+      "password": "bestPassw0rd",
+      "gmail": "asf4@gmail.com",
+      "userpropsinsession": {
+        "currentsession": "4r34f4334",
+        "browsers": "Chrome",
+        "sessionincome": 12,
+        "contries": "UK",
+        "usercurrentip": "1.1.1.1",
+        "usercurrentshape": 1,
+        "loginlog": "2021-4-2 13:34",
+        "logoutlog": "2021-4-2 13:34",
+        "usagetimeinsession": 143,
+        "actions": [
+          {
+            "actionid": "4r8f8e88e8",
+            "actionphysicaltype": "click",
+            "actionpayload": {
+              "actiontimeset": 143,
+              "actionsubject": "838f8uf843f43",
+              "actionsubjecttype": "user",
+              "actiontype": "askshape",
+              "askeduser": "asaasddsaf",
+              "position": [134, 123]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "sessionsdone": [
+    {
+      "id": "d88e88ef3",
+      "usersplayedinsession": ["343f343f"],
+      "finalnoofusersinsession": 9,
+      "totalsessiontime": 132
+    }
+  ],
+  "activesessions": [
+    {
+      "id": "38e8feu3ueyh",
+      "usersplayinginsession": ["343f343f"],
+      "noofusersinsession": 1,
+      "sessiontimerlive": 132
+    }
+  ],
+  "users": [
+    {
+      "id": "343f343f",
+      "email": "ddfasd@gmail.com",
+      "password": "bestPassw0rd",
+      "gmail": "asf4@gmail.com",
+      "totalincome": 26,
+      "totalcompletedsessions": 1,
+      "sessions": [
+        {
+          "sessionid": "4r34f4334",
+          "sessiontype": "shapesgame",
+          "sessionpayload": {
+            "browsers": "Chrome",
+            "sessionincome": 12,
+            "contries": "UK",
+            "ips": "1.1.1.1",
+            "shapes": 1,
+            "loginlog": "2021-4-2 13:34",
+            "logoutlog": "2021-4-2 13:34",
+            "usagetimelog": 143,
+            "actions": [
+              {
+                "actionid": "4r8f8e88e8",
+                "actionphysicaltype": "click",
+                "actionpayload": {
+                  "actiontimeset": 143,
+                  "actionsubject": "838f8uf843f43",
+                  "actionsubjecttype": "user",
+                  "actiontype": "askshape",
+                  "askeduser": "asaasddsaf",
+                  "position": [134, 123]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "socialanxietyusers": [
+    {
+      "jasminerazaghi@gmail.com": {
+        "Email=": "jasminerazaghi@gmail.com",
+        "supression_sum": 0,
+        "avoidance_sum": 0.35,
+        "reappraisal_sum": 0.525,
+        "label": 1
+      },
+      "m.haji1373@gmail.com": {
+        "Email=": "m.haji1373@gmail.com",
+        "supression_sum": 0,
+        "avoidance_sum": 0.2625,
+        "reappraisal_sum": 0.6125,
+        "label": 1
+      },
+      "mahsazarifi1@gmail.com": {
+        "Email=": "mahsazarifi1@gmail.com",
+        "supression_sum": 0.5625,
+        "avoidance_sum": 0.3375,
+        "reappraisal_sum": 0.3125,
+        "label": 1
+      },
+      "solalehtasnimbani@gmail.com": {
+        "Email=": "solalehtasnimbani@gmail.com",
+        "supression_sum": 0.3875,
+        "avoidance_sum": 0.275,
+        "reappraisal_sum": 0.15,
+        "label": 1
+      },
+      "marziehrezaie76m@gmail.com": {
+        "Email=": "marziehrezaie76m@gmail.com",
+        "supression_sum": 0.2,
+        "avoidance_sum": 0.2,
+        "reappraisal_sum": 0.325,
+        "label": 1
+      },
+      "sahel5481@gmail.com": {
+        "Email=": "sahel5481@gmail.com",
+        "supression_sum": 0.1375,
+        "avoidance_sum": 0.45,
+        "reappraisal_sum": 0.4875,
+        "label": 0
+      },
+      "m.bozorgi113@gmail.com": {
+        "Email=": "m.bozorgi113@gmail.com",
+        "supression_sum": 0.075,
+        "avoidance_sum": 0.3125,
+        "reappraisal_sum": 0.3125,
+        "label": 1
+      },
+      "DADASHI1987@GMAIL.COM": {
+        "Email=": "DADASHI1987@GMAIL.COM",
+        "supression_sum": 0.4,
+        "avoidance_sum": 0.2375,
+        "reappraisal_sum": 0.525,
+        "label": 1
+      },
+      "taha2001mohaghegh@gmail.com": {
+        "Email=": "taha2001mohaghegh@gmail.com",
+        "supression_sum": 0.3625,
+        "avoidance_sum": 0.325,
+        "reappraisal_sum": 0.4125,
+        "label": 1
+      },
+      "mr78rastaghi@gmail.com": {
+        "Email=": "mr78rastaghi@gmail.com",
+        "supression_sum": 0.3375,
+        "avoidance_sum": 0.25,
+        "reappraisal_sum": 0.3875,
+        "label": 1
+      },
+      "nama61342@gmail.com": {
+        "Email=": "nama61342@gmail.com",
+        "supression_sum": 0.425,
+        "avoidance_sum": 0.2625,
+        "reappraisal_sum": 0.4375,
+        "label": 1
+      },
+      "saeedikianoush@gmail.com": {
+        "Email=": "saeedikianoush@gmail.com",
+        "supression_sum": 0.3375,
+        "avoidance_sum": 0.2625,
+        "reappraisal_sum": 0.225,
+        "label": 1
+      },
+      "iamfakemrxyeah@gmail.com": {
+        "Email=": "iamfakemrxyeah@gmail.com",
+        "supression_sum": 0.4625,
+        "avoidance_sum": 0.6875,
+        "reappraisal_sum": 0.425,
+        "label": 1
+      },
+      "kosar.sabbagh1998@gmail.com": {
+        "Email=": "kosar.sabbagh1998@gmail.com",
+        "supression_sum": 0.55,
+        "avoidance_sum": 0.3625,
+        "reappraisal_sum": 0.45,
+        "label": 1
+      },
+      "zrabiee9@gmail.com": {
+        "Email=": "zrabiee9@gmail.com",
+        "supression_sum": 0.725,
+        "avoidance_sum": 0.6125,
+        "reappraisal_sum": 0.4875,
+        "label": 1
+      },
+      "alirezapahlavan08@gmail.com": {
+        "Email=": "alirezapahlavan08@gmail.com",
+        "supression_sum": 0.4375,
+        "avoidance_sum": 0.475,
+        "reappraisal_sum": 0.325,
+        "label": 0
+      },
+      "jahangir.motahareh@gmail.com": {
+        "Email=": "jahangir.motahareh@gmail.com",
+        "supression_sum": 0.6,
+        "avoidance_sum": 0.5,
+        "reappraisal_sum": 0.4625,
+        "label": 1
+      },
+      "v.mahsa99@gmail.com": {
+        "Email=": "v.mahsa99@gmail.com",
+        "supression_sum": 0.3125,
+        "avoidance_sum": 0.125,
+        "reappraisal_sum": 0.6125,
+        "label": 0
+      },
+      "armanmohammadpour0941gmail@.com": {
+        "Email=": "armanmohammadpour0941gmail@.com",
+        "supression_sum": 0.5375,
+        "avoidance_sum": 0.4,
+        "reappraisal_sum": 0.6125,
+        "label": 1
+      },
+      "marlanizadeh@gmail.com": {
+        "Email=": "marlanizadeh@gmail.com",
+        "supression_sum": 0.525,
+        "avoidance_sum": 0.225,
+        "reappraisal_sum": 0.175,
+        "label": 1
+      },
+      "taraneh.naseryar@gmail.com": {
+        "Email=": "taraneh.naseryar@gmail.com",
+        "supression_sum": 0.6625,
+        "avoidance_sum": 0.4125,
+        "reappraisal_sum": 0.625,
+        "label": 1
+      },
+      "lilium9875@gmail.com": {
+        "Email=": "lilium9875@gmail.com",
+        "supression_sum": 0.475,
+        "avoidance_sum": 0.7375,
+        "reappraisal_sum": 0.1625,
+        "label": 0
+      },
+      "shahrzad.javidi.j79@gmail.com": {
+        "Email=": "shahrzad.javidi.j79@gmail.com",
+        "supression_sum": 0.55,
+        "avoidance_sum": 0.525,
+        "reappraisal_sum": 0.4875,
+        "label": 1
+      },
+      "ghshenavar@gmail.com": {
+        "Email=": "ghshenavar@gmail.com",
+        "supression_sum": 0.675,
+        "avoidance_sum": 0.6375,
+        "reappraisal_sum": 0.55,
+        "label": 1
+      },
+      "dahlia.davoudi17@gmail.com": {
+        "Email=": "dahlia.davoudi17@gmail.com",
+        "supression_sum": 0.6125,
+        "avoidance_sum": 0.5125,
+        "reappraisal_sum": 0.2125,
+        "label": 1
+      },
+      "nimaseps4@gmail.com": {
+        "Email=": "nimaseps4@gmail.com",
+        "supression_sum": 0.5125,
+        "avoidance_sum": 0.4125,
+        "reappraisal_sum": 0.4875,
+        "label": 1
+      },
+      "mahdizakizadeh.me@gmail.com": {
+        "Email=": "mahdizakizadeh.me@gmail.com",
+        "supression_sum": 0.4625,
+        "avoidance_sum": 0.4375,
+        "reappraisal_sum": 0.525,
+        "label": 1
+      },
+      "mahtaj93@gmail.com": {
+        "Email=": "mahtaj93@gmail.com",
+        "supression_sum": 0.0875,
+        "avoidance_sum": 0.6125,
+        "reappraisal_sum": 0.15,
+        "label": 0
+      },
+      "ab43477479@gmail.com": {
+        "Email=": "ab43477479@gmail.com",
+        "supression_sum": 0.775,
+        "avoidance_sum": 0.825,
+        "reappraisal_sum": 0.3125,
+        "label": 0
+      },
+      "omidzudi@gmail.com": {
+        "Email=": "omidzudi@gmail.com",
+        "supression_sum": 0.125,
+        "avoidance_sum": 0.2875,
+        "reappraisal_sum": 0.3875,
+        "label": 1
+      },
+      "mahke2732@gmail.com": {
+        "Email=": "mahke2732@gmail.com",
+        "supression_sum": 0.1875,
+        "avoidance_sum": 0.1375,
+        "reappraisal_sum": 0.3875,
+        "label": 1
+      },
+      "m.ahmadi200019@gmail.com": {
+        "Email=": "m.ahmadi200019@gmail.com",
+        "supression_sum": 0.475,
+        "avoidance_sum": 0.5875,
+        "reappraisal_sum": 0.5125,
+        "label": 1
+      },
+      "Akbari201276@yahoo.com": {
+        "Email=": "Akbari201276@yahoo.com",
+        "supression_sum": 0.275,
+        "avoidance_sum": 0.275,
+        "reappraisal_sum": 0.4375,
+        "label": 1
+      },
+      "mehdikhatir1375@gmail.com": {
+        "Email=": "mehdikhatir1375@gmail.com",
+        "supression_sum": 0.175,
+        "avoidance_sum": 0.2,
+        "reappraisal_sum": 0.55,
+        "label": 1
+      },
+      "hosseindln@yahoo.com": {
+        "Email=": "hosseindln@yahoo.com",
+        "supression_sum": 0.3875,
+        "avoidance_sum": 0.2375,
+        "reappraisal_sum": 0.625,
+        "label": 1
+      },
+      "arshia.rashidazad4@gmail.com": {
+        "Email=": "arshia.rashidazad4@gmail.com",
+        "supression_sum": 0.625,
+        "avoidance_sum": 0.7,
+        "reappraisal_sum": 0.15,
+        "label": 0
+      },
+      "omid.sheykhani@gmail.com": {
+        "Email=": "omid.sheykhani@gmail.com",
+        "supression_sum": 0,
+        "avoidance_sum": 0,
+        "reappraisal_sum": 0,
+        "label": 0
+      },
+      "reza.razavipoor74@gmail.com": {
+        "Email=": "reza.razavipoor74@gmail.com",
+        "supression_sum": 0.325,
+        "avoidance_sum": 0.3625,
+        "reappraisal_sum": 0.25,
+        "label": 1
+      },
+      "soheil1999@yahoo.com": {
+        "Email=": "soheil1999@yahoo.com",
+        "supression_sum": 0.55,
+        "avoidance_sum": 0.6125,
+        "reappraisal_sum": 0.225,
+        "label": 1
+      },
+      "a.roosta99@gmail.com": {
+        "Email=": "a.roosta99@gmail.com",
+        "supression_sum": 0.075,
+        "avoidance_sum": 0.2625,
+        "reappraisal_sum": 0.7,
+        "label": 1
+      },
+      "arsalan0rahimi@gmail.com": {
+        "Email=": "arsalan0rahimi@gmail.com",
+        "supression_sum": 0.2625,
+        "avoidance_sum": 0.0875,
+        "reappraisal_sum": 0.6375,
+        "label": 1
+      },
+      "zohrehsamadi25@gmail.com": {
+        "Email=": "zohrehsamadi25@gmail.com",
+        "supression_sum": 0.525,
+        "avoidance_sum": 0.2375,
+        "reappraisal_sum": 0.5875,
+        "label": 1
+      },
+      "amiralikhanehanqa@gmail.com": {
+        "Email=": "amiralikhanehanqa@gmail.com",
+        "supression_sum": 0.3125,
+        "avoidance_sum": 0.25,
+        "reappraisal_sum": 0.425,
+        "label": 1
+      },
+      "mahdigavahi.6.9@gmail.com": {
+        "Email=": "mahdigavahi.6.9@gmail.com",
+        "supression_sum": 0.5625,
+        "avoidance_sum": 0.3875,
+        "reappraisal_sum": 0.5,
+        "label": 0
+      },
+      "mahdi822882@gmail.com": {
+        "Email=": "mahdi822882@gmail.com",
+        "supression_sum": 0.475,
+        "avoidance_sum": 0.3375,
+        "reappraisal_sum": 0.3875,
+        "label": 1
+      },
+      "nasimraad1515@gmail.com": {
+        "Email=": "nasimraad1515@gmail.com",
+        "supression_sum": 0.775,
+        "avoidance_sum": 0.525,
+        "reappraisal_sum": 0.175,
+        "label": 0
+      },
+      "paria.kshvrz@gmail.com": {
+        "Email=": "paria.kshvrz@gmail.com",
+        "supression_sum": 0.425,
+        "avoidance_sum": 0.45,
+        "reappraisal_sum": 0.1125,
+        "label": 1
+      },
+      "m.mehdi36@yahoo.com": {
+        "Email=": "m.mehdi36@yahoo.com",
+        "supression_sum": 0.5375,
+        "avoidance_sum": 0.4875,
+        "reappraisal_sum": 0.7625,
+        "label": 1
+      },
+      "sites.ouihae@gmail.com": {
+        "Email=": "sites.ouihae@gmail.com",
+        "supression_sum": 0.6,
+        "avoidance_sum": 0.3375,
+        "reappraisal_sum": 0.375,
+        "label": 1
+      },
+      "mehrdad.najafy@gmail.com": {
+        "Email=": "mehrdad.najafy@gmail.com",
+        "supression_sum": 0.25,
+        "avoidance_sum": 0.3,
+        "reappraisal_sum": 0.5875,
+        "label": 1
+      },
+      "moonor.razmi@gmail.com": {
+        "Email=": "moonor.razmi@gmail.com",
+        "supression_sum": 0.4125,
+        "avoidance_sum": 0.4,
+        "reappraisal_sum": 0.4375,
+        "label": 1
+      },
+      "Imankhosravi8090100@gmail.com": {
+        "Email=": "Imankhosravi8090100@gmail.com",
+        "supression_sum": 0.6875,
+        "avoidance_sum": 0.5375,
+        "reappraisal_sum": 0.625,
+        "label": 1
+      },
+      "zareiparsa1380@gmail.com": {
+        "Email=": "zareiparsa1380@gmail.com",
+        "supression_sum": 0.5875,
+        "avoidance_sum": 0.5375,
+        "reappraisal_sum": 0.4125,
+        "label": 0
+      },
+      "beautiiiiiful1@gmail.com": {
+        "Email=": "beautiiiiiful1@gmail.com",
+        "supression_sum": 0.5625,
+        "avoidance_sum": 0.525,
+        "reappraisal_sum": 0.45,
+        "label": 1
+      },
+      "fatemadashti1379@gmail.com": {
+        "Email=": "fatemadashti1379@gmail.com",
+        "supression_sum": 0.3125,
+        "avoidance_sum": 0.2875,
+        "reappraisal_sum": 0.2625,
+        "label": 1
+      },
+      "ali.esmaeily.94.ae@gmail.com": {
+        "Email=": "ali.esmaeily.94.ae@gmail.com",
+        "supression_sum": 0.45,
+        "avoidance_sum": 0.375,
+        "reappraisal_sum": 0.5625,
+        "label": 1
+      },
+      "sadra79afshari@gmail.com": {
+        "Email=": "sadra79afshari@gmail.com",
+        "supression_sum": 0.4625,
+        "avoidance_sum": 0.575,
+        "reappraisal_sum": 0.4,
+        "label": 1
+      },
+      "maede.chavoshi@gmail.com": {
+        "Email=": "maede.chavoshi@gmail.com",
+        "supression_sum": 0.7,
+        "avoidance_sum": 0.5375,
+        "reappraisal_sum": 0.625,
+        "label": 0
+      },
+      "maryamkeshavarz9969@gmail.com": {
+        "Email=": "maryamkeshavarz9969@gmail.com",
+        "supression_sum": 0.575,
+        "avoidance_sum": 0.5125,
+        "reappraisal_sum": 0.7875,
+        "label": 1
+      },
+      "hhsseinabooo949@gmail.com": {
+        "Email=": "hhsseinabooo949@gmail.com",
+        "supression_sum": 0.3625,
+        "avoidance_sum": 0.225,
+        "reappraisal_sum": 0.5125,
+        "label": 1
+      },
+      "m.mohammadi13771998@gmail.com": {
+        "Email=": "m.mohammadi13771998@gmail.com",
+        "supression_sum": 0.75,
+        "avoidance_sum": 0.6,
+        "reappraisal_sum": 0.45,
+        "label": 0
+      },
+      "afroozshahmoradi@gmail.com": {
+        "Email=": "afroozshahmoradi@gmail.com",
+        "supression_sum": 0.6,
+        "avoidance_sum": 0.475,
+        "reappraisal_sum": 0.5125,
+        "label": 1
+      },
+      "dorimeradji@gmail.com": {
+        "Email=": "dorimeradji@gmail.com",
+        "supression_sum": 0.65,
+        "avoidance_sum": 0.7625,
+        "reappraisal_sum": 0.15,
+        "label": 0
+      },
+      "saadati.nima@gmail.com": {
+        "Email=": "saadati.nima@gmail.com",
+        "supression_sum": 0.275,
+        "avoidance_sum": 0.1375,
+        "reappraisal_sum": 0.5625,
+        "label": 1
+      },
+      "naime_niazi@yahoo.com": {
+        "Email=": "naime_niazi@yahoo.com",
+        "supression_sum": 0.3,
+        "avoidance_sum": 0.4125,
+        "reappraisal_sum": 0.2625,
+        "label": 1
+      },
+      "zahra.raouf76@gmail.com": {
+        "Email=": "zahra.raouf76@gmail.com",
+        "supression_sum": 0.35,
+        "avoidance_sum": 0.0875,
+        "reappraisal_sum": 0.4375,
+        "label": 1
+      },
+      "emadtaghipour2000@gmail.com": {
+        "Email=": "emadtaghipour2000@gmail.com",
+        "supression_sum": 0.15,
+        "avoidance_sum": 0.225,
+        "reappraisal_sum": 0.25,
+        "label": 0
+      },
+      "otavakkolp8@gmail.com": {
+        "Email=": "otavakkolp8@gmail.com",
+        "supression_sum": 0.625,
+        "avoidance_sum": 0.725,
+        "reappraisal_sum": 0.4875,
+        "label": 0
+      },
+      "kimia.sn777@gmail.com": {
+        "Email=": "kimia.sn777@gmail.com",
+        "supression_sum": 0.525,
+        "avoidance_sum": 0.525,
+        "reappraisal_sum": 0.2875,
+        "label": 1
+      },
+      "sinaghm8@gmail.com": {
+        "Email=": "sinaghm8@gmail.com",
+        "supression_sum": 0.325,
+        "avoidance_sum": 0.25,
+        "reappraisal_sum": 0.7625,
+        "label": 1
+      },
+      "sabayenorouzi@gmail.com": {
+        "Email=": "sabayenorouzi@gmail.com",
+        "supression_sum": 0.2625,
+        "avoidance_sum": 0.4375,
+        "reappraisal_sum": 0.625,
+        "label": 1
+      },
+      "neg.krg@gmail.com": {
+        "Email=": "neg.krg@gmail.com",
+        "supression_sum": 0.3,
+        "avoidance_sum": 0.15,
+        "reappraisal_sum": 0.7875,
+        "label": 1
+      },
+      "mahdisadeghi9877@gmail.com": {
+        "Email=": "mahdisadeghi9877@gmail.com",
+        "supression_sum": 0.275,
+        "avoidance_sum": 0.2125,
+        "reappraisal_sum": 0.65,
+        "label": 1
+      },
+      "nasimaakbarpour@gmail.com": {
+        "Email=": "nasimaakbarpour@gmail.com",
+        "supression_sum": 0.3875,
+        "avoidance_sum": 0.625,
+        "reappraisal_sum": 0.2625,
+        "label": 0
+      },
+      "amin.rahmaninasab71@gmail.com": {
+        "Email=": "amin.rahmaninasab71@gmail.com",
+        "supression_sum": 0.4375,
+        "avoidance_sum": 0.175,
+        "reappraisal_sum": 0.175,
+        "label": 1
+      },
+      "sepi.sf78@gmail.com": {
+        "Email=": "sepi.sf78@gmail.com",
+        "supression_sum": 0.7125,
+        "avoidance_sum": 0.6875,
+        "reappraisal_sum": 0.55,
+        "label": 1
+      },
+      "elimahmoodi96@yahoo.com": {
+        "Email=": "elimahmoodi96@yahoo.com",
+        "supression_sum": 0.175,
+        "avoidance_sum": 0.1125,
+        "reappraisal_sum": 0.625,
+        "label": 1
+      },
+      "zakiye.taheri313.gmail.com": {
+        "Email=": "zakiye.taheri313.gmail.com",
+        "supression_sum": 0.55,
+        "avoidance_sum": 0.5,
+        "reappraisal_sum": 0.4375,
+        "label": 1
+      },
+      "mohadese.ghasemnejad@gmail.com": {
+        "Email=": "mohadese.ghasemnejad@gmail.com",
+        "supression_sum": 0.5,
+        "avoidance_sum": 0.4375,
+        "reappraisal_sum": 0.6375,
+        "label": 1
+      },
+      "hildadara1@gmail.com": {
+        "Email=": "hildadara1@gmail.com",
+        "supression_sum": 0.325,
+        "avoidance_sum": 0.35,
+        "reappraisal_sum": 0.4875,
+        "label": 1
+      },
+      "Reza.maleki727@gmail.com": {
+        "Email=": "Reza.maleki727@gmail.com",
+        "supression_sum": 0.4875,
+        "avoidance_sum": 0.5875,
+        "reappraisal_sum": 0.3,
+        "label": 0
+      },
+      "hanieh.s2001@gmail.com": {
+        "Email=": "hanieh.s2001@gmail.com",
+        "supression_sum": 0.225,
+        "avoidance_sum": 0.0875,
+        "reappraisal_sum": 0.4875,
+        "label": 1
+      },
+      "tatlari69@yahoo.com": {
+        "Email=": "tatlari69@yahoo.com",
+        "supression_sum": 0.3,
+        "avoidance_sum": 0.3625,
+        "reappraisal_sum": 0.375,
+        "label": 1
+      },
+      "ati.fd2002@gmail.com": {
+        "Email=": "ati.fd2002@gmail.com",
+        "supression_sum": 0.6,
+        "avoidance_sum": 0.5875,
+        "reappraisal_sum": 0.3625,
+        "label": 1
+      },
+      "majidbagheri1993@gmail.com": {
+        "Email=": "majidbagheri1993@gmail.com",
+        "supression_sum": 0.1125,
+        "avoidance_sum": 0.0625,
+        "reappraisal_sum": 0.5125,
+        "label": 1
+      },
+      "ARSH9731@yahoo.com": {
+        "Email=": "ARSH9731@yahoo.com",
+        "supression_sum": 0.5125,
+        "avoidance_sum": 0.3875,
+        "reappraisal_sum": 0.7375,
+        "label": 1
+      },
+      "alexmo2222@gmail.com": {
+        "Email=": "alexmo2222@gmail.com",
+        "supression_sum": 0.15,
+        "avoidance_sum": 0.0375,
+        "reappraisal_sum": 0.425,
+        "label": 1
+      },
+      "amirhosseinghanbari.sut@gmail.com": {
+        "Email=": "amirhosseinghanbari.sut@gmail.com",
+        "supression_sum": 0.25,
+        "avoidance_sum": 0.2625,
+        "reappraisal_sum": 0.4875,
+        "label": 1
+      },
+      "nargesmhmdii9@gmail.com": {
+        "Email=": "nargesmhmdii9@gmail.com",
+        "supression_sum": 0.375,
+        "avoidance_sum": 0.4,
+        "reappraisal_sum": 0.1625,
+        "label": 1
+      },
+      "m_ali_keshvad@yahoo.com": {
+        "Email=": "m_ali_keshvad@yahoo.com",
+        "supression_sum": 0.575,
+        "avoidance_sum": 0.375,
+        "reappraisal_sum": 0.6125,
+        "label": 1
+      },
+      "bostani1998@gmail.com": {
+        "Email=": "bostani1998@gmail.com",
+        "supression_sum": 0.625,
+        "avoidance_sum": 0.575,
+        "reappraisal_sum": 0.6125,
+        "label": 1
+      },
+      "fzp1377@gmail.com": {
+        "Email=": "fzp1377@gmail.com",
+        "supression_sum": 0.6875,
+        "avoidance_sum": 0.525,
+        "reappraisal_sum": 0.3,
+        "label": 1
+      },
+      "pouryashahparast@gmail.com": {
+        "Email=": "pouryashahparast@gmail.com",
+        "supression_sum": 0.55,
+        "avoidance_sum": 0.4625,
+        "reappraisal_sum": 0.475,
+        "label": 1
+      },
+      "1.alma.rajabi@gmail.com": {
+        "Email=": "1.alma.rajabi@gmail.com",
+        "supression_sum": 0.2375,
+        "avoidance_sum": 0.7125,
+        "reappraisal_sum": 0.0625,
+        "label": 0
+      },
+      "rohamhayedi@gmail.com": {
+        "Email=": "rohamhayedi@gmail.com",
+        "supression_sum": 0.5125,
+        "avoidance_sum": 0.3,
+        "reappraisal_sum": 0.35,
+        "label": 1
+      },
+      "asal99_m@yahoo.com": {
+        "Email=": "asal99_m@yahoo.com",
+        "supression_sum": 0.5625,
+        "avoidance_sum": 0.425,
+        "reappraisal_sum": 0.6375,
+        "label": 1
+      },
+      "mastane.alaie@gmail.com": {
+        "Email=": "mastane.alaie@gmail.com",
+        "supression_sum": 0.2875,
+        "avoidance_sum": 0.0875,
+        "reappraisal_sum": 0.7375,
+        "label": 1
+      },
+      "maral.smd99@gmail.com": {
+        "Email=": "maral.smd99@gmail.com",
+        "supression_sum": 0.5125,
+        "avoidance_sum": 0.5375,
+        "reappraisal_sum": 0.4125,
+        "label": 1
+      },
+      "ahs1375@gmail.com": {
+        "Email=": "ahs1375@gmail.com",
+        "supression_sum": 0.325,
+        "avoidance_sum": 0.525,
+        "reappraisal_sum": 0.4375,
+        "label": 1
+      },
+      "rezaaanjabin@gmail.com": {
+        "Email=": "rezaaanjabin@gmail.com",
+        "supression_sum": 0.0375,
+        "avoidance_sum": 0.0875,
+        "reappraisal_sum": 0.15,
+        "label": 1
+      },
+      "hoseinzadepouria@gmail.com": {
+        "Email=": "hoseinzadepouria@gmail.com",
+        "supression_sum": 0.5875,
+        "avoidance_sum": 0.7,
+        "reappraisal_sum": 0.35,
+        "label": 1
+      },
+      "lotfi_mahya@yahoo.com": {
+        "Email=": "lotfi_mahya@yahoo.com",
+        "supression_sum": 0.125,
+        "avoidance_sum": 0.2625,
+        "reappraisal_sum": 0.5375,
+        "label": 1
+      },
+      "setarehjoshani@gmail.com": {
+        "Email=": "setarehjoshani@gmail.com",
+        "supression_sum": 0.7875,
+        "avoidance_sum": 0.75,
+        "reappraisal_sum": 0.3,
+        "label": 0
+      },
+      "tarane.es1381@gmail.com": {
+        "Email=": "tarane.es1381@gmail.com",
+        "supression_sum": 0.45,
+        "avoidance_sum": 0.425,
+        "reappraisal_sum": 0.625,
+        "label": 1
+      },
+      "frshte.f98@gmail.com": {
+        "Email=": "frshte.f98@gmail.com",
+        "supression_sum": 0.1375,
+        "avoidance_sum": 0.2125,
+        "reappraisal_sum": 0.3,
+        "label": 1
+      },
+      "melika1381yadegari@gmail.com": {
+        "Email=": "melika1381yadegari@gmail.com",
+        "supression_sum": 0.5875,
+        "avoidance_sum": 0.3125,
+        "reappraisal_sum": 0.6375,
+        "label": 1
+      },
+      "ftm.noury@gmail.com": {
+        "Email=": "ftm.noury@gmail.com",
+        "supression_sum": 0.7,
+        "avoidance_sum": 0.675,
+        "reappraisal_sum": 0.5,
+        "label": 1
+      },
+      "farzane.abedini93@gmail.com": {
+        "Email=": "farzane.abedini93@gmail.com",
+        "supression_sum": 0.5625,
+        "avoidance_sum": 0.4125,
+        "reappraisal_sum": 0.4875,
+        "label": 1
+      },
+      "Farrokhi.mahia@gmail.com": {
+        "Email=": "Farrokhi.mahia@gmail.com",
+        "supression_sum": 0.7,
+        "avoidance_sum": 0.4625,
+        "reappraisal_sum": 0.3,
+        "label": 1
+      },
+      "beatambii@gmail.com": {
+        "Email=": "beatambii@gmail.com",
+        "supression_sum": 0.5,
+        "avoidance_sum": 0.525,
+        "reappraisal_sum": 0.4375,
+        "label": 1
+      },
+      "mehrniodimo1@gmail.com": {
+        "Email=": "mehrniodimo1@gmail.com",
+        "supression_sum": 0.3,
+        "avoidance_sum": 0.225,
+        "reappraisal_sum": 0.1375,
+        "label": 1
+      },
+      "Hadi.karimimobin@gmail.com": {
+        "Email=": "Hadi.karimimobin@gmail.com",
+        "supression_sum": 0.225,
+        "avoidance_sum": 0.2,
+        "reappraisal_sum": 0.425,
+        "label": 1
+      },
+      "hmp4319@ymail.com": {
+        "Email=": "hmp4319@ymail.com",
+        "supression_sum": 0.525,
+        "avoidance_sum": 0.4625,
+        "reappraisal_sum": 0.5375,
+        "label": 1
+      },
+      "alibalapour93.ab@gmail.com": {
+        "Email=": "alibalapour93.ab@gmail.com",
+        "supression_sum": 0.5625,
+        "avoidance_sum": 0.6875,
+        "reappraisal_sum": 0.2625,
+        "label": 0
+      },
+      "mahsagoodarzi1999@gmail.com": {
+        "Email=": "mahsagoodarzi1999@gmail.com",
+        "supression_sum": 0.5625,
+        "avoidance_sum": 0.3875,
+        "reappraisal_sum": 0.6625,
+        "label": 1
+      },
+      "Amirreza.s7631@gmail.com": {
+        "Email=": "Amirreza.s7631@gmail.com",
+        "supression_sum": 0.425,
+        "avoidance_sum": 0.4125,
+        "reappraisal_sum": 0.5875,
+        "label": 1
+      },
+      "gh_mousavi74@yahoo.com": {
+        "Email=": "gh_mousavi74@yahoo.com",
+        "supression_sum": 0.45,
+        "avoidance_sum": 0.2625,
+        "reappraisal_sum": 0.225,
+        "label": 0
+      },
+      "sajjadpoorakbar@gmail.com": {
+        "Email=": "sajjadpoorakbar@gmail.com",
+        "supression_sum": 0.725,
+        "avoidance_sum": 0.6375,
+        "reappraisal_sum": 0.1375,
+        "label": 0
+      },
+      "maryamh905@gmail.com": {
+        "Email=": "maryamh905@gmail.com",
+        "supression_sum": 0.2375,
+        "avoidance_sum": 0.225,
+        "reappraisal_sum": 0.5625,
+        "label": 1
+      },
+      "paryaamin80@gmail.com": {
+        "Email=": "paryaamin80@gmail.com",
+        "supression_sum": 0.55,
+        "avoidance_sum": 0.2625,
+        "reappraisal_sum": 0.625,
+        "label": 1
+      },
+      "elinamkh77@gmail.com": {
+        "Email=": "elinamkh77@gmail.com",
+        "supression_sum": 0.5375,
+        "avoidance_sum": 0.625,
+        "reappraisal_sum": 0.6375,
+        "label": 0
+      },
+      "Karimanrosa@gmail.com": {
+        "Email=": "Karimanrosa@gmail.com",
+        "supression_sum": 0.15,
+        "avoidance_sum": 0.35,
+        "reappraisal_sum": 0.2625,
+        "label": 1
+      },
+      "malak1377mm@gmail.com": {
+        "Email=": "malak1377mm@gmail.com",
+        "supression_sum": 0.625,
+        "avoidance_sum": 0.65,
+        "reappraisal_sum": 0.2625,
+        "label": 0
+      },
+      "mountain75victor@gmail.com": {
+        "Email=": "mountain75victor@gmail.com",
+        "supression_sum": 0.55,
+        "avoidance_sum": 0.525,
+        "reappraisal_sum": 0.25,
+        "label": 0
+      },
+      "saeed.orojlou@gmail.com": {
+        "Email=": "saeed.orojlou@gmail.com",
+        "supression_sum": 0.55,
+        "avoidance_sum": 0.425,
+        "reappraisal_sum": 0.4375,
+        "label": 1
+      },
+      "saraghanbari.sg@gmail.com": {
+        "Email=": "saraghanbari.sg@gmail.com",
+        "supression_sum": 0.5625,
+        "avoidance_sum": 0.5125,
+        "reappraisal_sum": 0.3,
+        "label": 1
+      },
+      "sara93592@gmail.com": {
+        "Email=": "sara93592@gmail.com",
+        "supression_sum": 0,
+        "avoidance_sum": 0.4375,
+        "reappraisal_sum": 0.4375,
+        "label": 0
+      },
+      "sealaz1999@gmail.com": {
+        "Email=": "sealaz1999@gmail.com",
+        "supression_sum": 0.4,
+        "avoidance_sum": 0.2875,
+        "reappraisal_sum": 0.7125,
+        "label": 1
+      },
+      "mhkhajehpiri@gmail.com": {
+        "Email=": "mhkhajehpiri@gmail.com",
+        "supression_sum": 0.3125,
+        "avoidance_sum": 0.1375,
+        "reappraisal_sum": 0.0875,
+        "label": 1
+      },
+      "m.razzaghi1998@gmail.com": {
+        "Email=": "m.razzaghi1998@gmail.com",
+        "supression_sum": 0.5,
+        "avoidance_sum": 0.1375,
+        "reappraisal_sum": 0.5,
+        "label": 1
+      },
+      "ftm.amini.22@gmail.com": {
+        "Email=": "ftm.amini.22@gmail.com",
+        "supression_sum": 0.5625,
+        "avoidance_sum": 0.2375,
+        "reappraisal_sum": 0.6375,
+        "label": 1
+      },
+      "sara.f4412@gmail.com": {
+        "Email=": "sara.f4412@gmail.com",
+        "supression_sum": 0.175,
+        "avoidance_sum": 0.325,
+        "reappraisal_sum": 0.3125,
+        "label": 0
+      },
+      "freakingceo@gmail.com": {
+        "Email=": "freakingceo@gmail.com",
+        "supression_sum": 0.625,
+        "avoidance_sum": 0.45,
+        "reappraisal_sum": 0.425,
+        "label": 1
+      },
+      "nazaninasgari867@gmail.com": {
+        "Email=": "nazaninasgari867@gmail.com",
+        "supression_sum": 0.2,
+        "avoidance_sum": 0.0875,
+        "reappraisal_sum": 0.2125,
+        "label": 1
+      },
+      "a.pourpharhang@gmail.com": {
+        "Email=": "a.pourpharhang@gmail.com",
+        "supression_sum": 0.3125,
+        "avoidance_sum": 0.125,
+        "reappraisal_sum": 0.4375,
+        "label": 1
+      },
+      "shqyq.divargar@gmail.com": {
+        "Email=": "shqyq.divargar@gmail.com",
+        "supression_sum": 0.3625,
+        "avoidance_sum": 0.25,
+        "reappraisal_sum": 0.425,
+        "label": 1
+      },
+      "mlk.mqdm2002@gmail.com": {
+        "Email=": "mlk.mqdm2002@gmail.com",
+        "supression_sum": 0.6625,
+        "avoidance_sum": 0.7,
+        "reappraisal_sum": 0.4875,
+        "label": 1
+      },
+      "mahmoudakbari.pe@gmail.com": {
+        "Email=": "mahmoudakbari.pe@gmail.com",
+        "supression_sum": 0.525,
+        "avoidance_sum": 0.0625,
+        "reappraisal_sum": 0.3125,
+        "label": 1
+      },
+      "felicita_91@yahoo.com": {
+        "Email=": "felicita_91@yahoo.com",
+        "supression_sum": 0.375,
+        "avoidance_sum": 0.1,
+        "reappraisal_sum": 0.45,
+        "label": 1
+      },
+      "zra.mmadi@gmail.com": {
+        "Email=": "zra.mmadi@gmail.com",
+        "supression_sum": 0.4875,
+        "avoidance_sum": 0.65,
+        "reappraisal_sum": 0.45,
+        "label": 1
+      },
+      "akbarmohamadi2ta312@gmail.com": {
+        "Email=": "akbarmohamadi2ta312@gmail.com",
+        "supression_sum": 0.625,
+        "avoidance_sum": 0.4875,
+        "reappraisal_sum": 0.3625,
+        "label": 1
+      },
+      "rostamifard.alireza@gmail.com": {
+        "Email=": "rostamifard.alireza@gmail.com",
+        "supression_sum": 0.625,
+        "avoidance_sum": 0.5625,
+        "reappraisal_sum": 0.4875,
+        "label": 1
+      },
+      "ero58ica@gmail.com": {
+        "Email=": "ero58ica@gmail.com",
+        "supression_sum": 0.525,
+        "avoidance_sum": 0.4125,
+        "reappraisal_sum": 0.3,
+        "label": 1
+      },
+      "nikoosaboori@gmail.com": {
+        "Email=": "nikoosaboori@gmail.com",
+        "supression_sum": 0.5375,
+        "avoidance_sum": 0.5875,
+        "reappraisal_sum": 0.425,
+        "label": 0
+      },
+      "kalbasi.a.a.7@gmail.com": {
+        "Email=": "kalbasi.a.a.7@gmail.com",
+        "supression_sum": 0.625,
+        "avoidance_sum": 0.4125,
+        "reappraisal_sum": 0.525,
+        "label": 1
+      },
+      "slmagheli.1831@gmail.com": {
+        "Email=": "slmagheli.1831@gmail.com",
+        "supression_sum": 0.4,
+        "avoidance_sum": 0.1875,
+        "reappraisal_sum": 0.6125,
+        "label": 1
+      },
+      "flexman800@yahoo.com": {
+        "Email=": "flexman800@yahoo.com",
+        "supression_sum": 0.475,
+        "avoidance_sum": 0.4,
+        "reappraisal_sum": 0.425,
+        "label": 1
+      },
+      "ghnsara8@gmail.com": {
+        "Email=": "ghnsara8@gmail.com",
+        "supression_sum": 0.0625,
+        "avoidance_sum": 0.1,
+        "reappraisal_sum": 0.65,
+        "label": 1
+      },
+      "golnaz.z.leyla@gmail.com": {
+        "Email=": "golnaz.z.leyla@gmail.com",
+        "supression_sum": 0.5,
+        "avoidance_sum": 0.4625,
+        "reappraisal_sum": 0.5375,
+        "label": 0
+      },
+      "montazery76mahfi@gmail.com": {
+        "Email=": "montazery76mahfi@gmail.com",
+        "supression_sum": 0.25,
+        "avoidance_sum": 0.5125,
+        "reappraisal_sum": 0.2875,
+        "label": 0
+      },
+      "alireza0x07@gmail.com": {
+        "Email=": "alireza0x07@gmail.com",
+        "supression_sum": 0.575,
+        "avoidance_sum": 0.3,
+        "reappraisal_sum": 0.55,
+        "label": 1
+      },
+      "hodeysy@gmail.com": {
+        "Email=": "hodeysy@gmail.com",
+        "supression_sum": 0.325,
+        "avoidance_sum": 0.3125,
+        "reappraisal_sum": 0.3625,
+        "label": 1
+      },
+      "ghamgosar.mahsa@gmail.com": {
+        "Email=": "ghamgosar.mahsa@gmail.com",
+        "supression_sum": 0.6625,
+        "avoidance_sum": 0.325,
+        "reappraisal_sum": 0.5,
+        "label": 1
+      },
+      "shayanlahoni@gmail.com": {
+        "Email=": "shayanlahoni@gmail.com",
+        "supression_sum": 0.375,
+        "avoidance_sum": 0.125,
+        "reappraisal_sum": 0.05,
+        "label": 0
+      },
+      "zahra_jamali98@yahoo.com": {
+        "Email=": "zahra_jamali98@yahoo.com",
+        "supression_sum": 0.75,
+        "avoidance_sum": 0.4875,
+        "reappraisal_sum": 0.45,
+        "label": 1
+      },
+      "moghimifaranak892@gmail.com": {
+        "Email=": "moghimifaranak892@gmail.com",
+        "supression_sum": 0.5875,
+        "avoidance_sum": 0.5375,
+        "reappraisal_sum": 0.475,
+        "label": 0
+      },
+      "farahnazghasemi97@gmail.com": {
+        "Email=": "farahnazghasemi97@gmail.com",
+        "supression_sum": 0.175,
+        "avoidance_sum": 0.175,
+        "reappraisal_sum": 0.6875,
+        "label": 1
+      },
+      "farimah2079@gmail.com": {
+        "Email=": "farimah2079@gmail.com",
+        "supression_sum": 0.4875,
+        "avoidance_sum": 0.4375,
+        "reappraisal_sum": 0.2125,
+        "label": 1
+      },
+      "z.khalvandi77@gmail.com": {
+        "Email=": "z.khalvandi77@gmail.com",
+        "supression_sum": 0.65,
+        "avoidance_sum": 0.4625,
+        "reappraisal_sum": 0.4,
+        "label": 1
+      },
+      "neginmorady8521@gmail.com": {
+        "Email=": "neginmorady8521@gmail.com",
+        "supression_sum": 0.5125,
+        "avoidance_sum": 0.3125,
+        "reappraisal_sum": 0.4875,
+        "label": 1
+      },
+      "haaadaia@gmail.com": {
+        "Email=": "haaadaia@gmail.com",
+        "supression_sum": 0.5125,
+        "avoidance_sum": 0.5125,
+        "reappraisal_sum": 0.4625,
+        "label": 1
+      },
+      "faeze.ra1379@gmail.com": {
+        "Email=": "faeze.ra1379@gmail.com",
+        "supression_sum": 0.3125,
+        "avoidance_sum": 0.4875,
+        "reappraisal_sum": 0.15,
+        "label": 0
+      },
+      "n87.mozaffari@gmail.com": {
+        "Email=": "n87.mozaffari@gmail.com",
+        "supression_sum": 0.3625,
+        "avoidance_sum": 0.2625,
+        "reappraisal_sum": 0.225,
+        "label": 1
+      },
+      "gdfjkhsey75@gmail.com": {
+        "Email=": "gdfjkhsey75@gmail.com",
+        "supression_sum": 0.35,
+        "avoidance_sum": 0.3375,
+        "reappraisal_sum": 0.275,
+        "label": 1
+      },
+      "masorkhabi@gmail.com": {
+        "Email=": "masorkhabi@gmail.com",
+        "supression_sum": 0.3625,
+        "avoidance_sum": 0.1875,
+        "reappraisal_sum": 0.5875,
+        "label": 1
+      },
+      "ramzonpourmaryam@gmail.com": {
+        "Email=": "ramzonpourmaryam@gmail.com",
+        "supression_sum": 0.225,
+        "avoidance_sum": 0.3375,
+        "reappraisal_sum": 0.325,
+        "label": 1
+      },
+      "tahoura.aghaie@yahoo.com": {
+        "Email=": "tahoura.aghaie@yahoo.com",
+        "supression_sum": 0.4625,
+        "avoidance_sum": 0.55,
+        "reappraisal_sum": 0.25,
+        "label": 1
+      },
+      "babackbayazian@ut.ac.ir": {
+        "Email=": "babackbayazian@ut.ac.ir",
+        "supression_sum": 0.3625,
+        "avoidance_sum": 0.35,
+        "reappraisal_sum": 0.5125,
+        "label": 1
+      },
+      "Hannanehshenaei1382@gmail.com": {
+        "Email=": "Hannanehshenaei1382@gmail.com",
+        "supression_sum": 0.2375,
+        "avoidance_sum": 0.775,
+        "reappraisal_sum": 0.15,
+        "label": 0
+      },
+      "m9127331161@gmail.com": {
+        "Email=": "m9127331161@gmail.com",
+        "supression_sum": 0.425,
+        "avoidance_sum": 0.3625,
+        "reappraisal_sum": 0.575,
+        "label": 1
+      },
+      "fm8657384@gmail.com": {
+        "Email=": "fm8657384@gmail.com",
+        "supression_sum": 0.325,
+        "avoidance_sum": 0.325,
+        "reappraisal_sum": 0.45,
+        "label": 1
+      },
+      "barzegarnastaran@gmail.com": {
+        "Email=": "barzegarnastaran@gmail.com",
+        "supression_sum": 0.2875,
+        "avoidance_sum": 0.0875,
+        "reappraisal_sum": 0.625,
+        "label": 1
+      },
+      "morghamir1234@gmail.com": {
+        "Email=": "morghamir1234@gmail.com",
+        "supression_sum": 0.1875,
+        "avoidance_sum": 0.1375,
+        "reappraisal_sum": 0.2375,
+        "label": 1
+      },
+      "saeedehm.371@gmail.com": {
+        "Email=": "saeedehm.371@gmail.com",
+        "supression_sum": 0.4625,
+        "avoidance_sum": 0.7,
+        "reappraisal_sum": 0.4875,
+        "label": 0
+      },
+      "rezavaran@gmail.com": {
+        "Email=": "rezavaran@gmail.com",
+        "supression_sum": 0.1,
+        "avoidance_sum": 0.125,
+        "reappraisal_sum": 0.375,
+        "label": 1
+      },
+      "yasamanshabani18@gmail.com": {
+        "Email=": "yasamanshabani18@gmail.com",
+        "supression_sum": 0.25,
+        "avoidance_sum": 0.45,
+        "reappraisal_sum": 0.1625,
+        "label": 0
+      },
+      "saghar.kachal@gmail.com": {
+        "Email=": "saghar.kachal@gmail.com",
+        "supression_sum": 0.625,
+        "avoidance_sum": 0.3625,
+        "reappraisal_sum": 0.225,
+        "label": 0
+      },
+      "ma.az.290.1226@gmail.com": {
+        "Email=": "ma.az.290.1226@gmail.com",
+        "supression_sum": 0.525,
+        "avoidance_sum": 0.65,
+        "reappraisal_sum": 0.3875,
+        "label": 0
+      },
+      "hmd.aminian@gmail.com": {
+        "Email=": "hmd.aminian@gmail.com",
+        "supression_sum": 0.7125,
+        "avoidance_sum": 0.575,
+        "reappraisal_sum": 0.1375,
+        "label": 0
+      },
+      "mehraniran1314@gmail.com": {
+        "Email=": "mehraniran1314@gmail.com",
+        "supression_sum": 0.25,
+        "avoidance_sum": 0.3,
+        "reappraisal_sum": 0.5625,
+        "label": 1
+      },
+      "aboosalman.ozra@gmail.com": {
+        "Email=": "aboosalman.ozra@gmail.com",
+        "supression_sum": 0.5875,
+        "avoidance_sum": 0.475,
+        "reappraisal_sum": 0.675,
+        "label": 1
+      },
+      "majid_gn@yahoo.com": {
+        "Email=": "majid_gn@yahoo.com",
+        "supression_sum": 0.525,
+        "avoidance_sum": 0.55,
+        "reappraisal_sum": 0.55,
+        "label": 1
+      },
+      "mot2275@gmail.com": {
+        "Email=": "mot2275@gmail.com",
+        "supression_sum": 0.6,
+        "avoidance_sum": 0.6375,
+        "reappraisal_sum": 0.55,
+        "label": 1
+      },
+      "romeocoahen@gmail.com": {
+        "Email=": "romeocoahen@gmail.com",
+        "supression_sum": 0.425,
+        "avoidance_sum": 0.1875,
+        "reappraisal_sum": 0.725,
+        "label": 1
+      },
+      "fatemejli74@gmail.com": {
+        "Email=": "fatemejli74@gmail.com",
+        "supression_sum": 0.175,
+        "avoidance_sum": 0.35,
+        "reappraisal_sum": 0.4375,
+        "label": 1
+      },
+      "erfanbs1380@gmail.com": {
+        "Email=": "erfanbs1380@gmail.com",
+        "supression_sum": 0.4625,
+        "avoidance_sum": 0.525,
+        "reappraisal_sum": 0.4125,
+        "label": 0
+      },
+      "nahaleh.spotify@gmail.com": {
+        "Email=": "nahaleh.spotify@gmail.com",
+        "supression_sum": 0.3125,
+        "avoidance_sum": 0.2625,
+        "reappraisal_sum": 0.4125,
+        "label": 1
+      },
+      "marzie.askari96@gmail.com": {
+        "Email=": "marzie.askari96@gmail.com",
+        "supression_sum": 0.525,
+        "avoidance_sum": 0.525,
+        "reappraisal_sum": 0.35,
+        "label": 1
+      },
+      "aminhadavi02@gmail.com": {
+        "Email=": "aminhadavi02@gmail.com",
+        "supression_sum": 0.2125,
+        "avoidance_sum": 0.325,
+        "reappraisal_sum": 0.4375,
+        "label": 1
+      },
+      "sararajabi2612@gmail.com": {
+        "Email=": "sararajabi2612@gmail.com",
+        "supression_sum": 0.3,
+        "avoidance_sum": 0.2625,
+        "reappraisal_sum": 0.15,
+        "label": 1
+      },
+      "amiri.haniye.2000@gmail.com": {
+        "Email=": "amiri.haniye.2000@gmail.com",
+        "supression_sum": 0.65,
+        "avoidance_sum": 0.75,
+        "reappraisal_sum": 0.3625,
+        "label": 0
+      },
+      "kasratavassolijahromi@gmail.com": {
+        "Email=": "kasratavassolijahromi@gmail.com",
+        "supression_sum": 0.2625,
+        "avoidance_sum": 0.3375,
+        "reappraisal_sum": 0.55,
+        "label": 1
+      },
+      "hoseinpoor.mm@gmail.com": {
+        "Email=": "hoseinpoor.mm@gmail.com",
+        "supression_sum": 0.35,
+        "avoidance_sum": 0.2625,
+        "reappraisal_sum": 0.3625,
+        "label": 1
+      },
+      "mobinahaghshenas@yahoo.com": {
+        "Email=": "mobinahaghshenas@yahoo.com",
+        "supression_sum": 0.3,
+        "avoidance_sum": 0.2,
+        "reappraisal_sum": 0.3625,
+        "label": 1
+      },
+      "mohamadi.azin23@gmail.com": {
+        "Email=": "mohamadi.azin23@gmail.com",
+        "supression_sum": 0.7125,
+        "avoidance_sum": 0.8,
+        "reappraisal_sum": 0.475,
+        "label": 0
+      },
+      "alexalexlife@gmail.com": {
+        "Email=": "alexalexlife@gmail.com",
+        "supression_sum": 0.3,
+        "avoidance_sum": 0.1875,
+        "reappraisal_sum": 0.4375,
+        "label": 1
+      },
+      "soroushsoroush1998@gmail.com": {
+        "Email=": "soroushsoroush1998@gmail.com",
+        "supression_sum": 0.2625,
+        "avoidance_sum": 0.2625,
+        "reappraisal_sum": 0.525,
+        "label": 1
+      },
+      "hoze.markaz@gmail.com": {
+        "Email=": "hoze.markaz@gmail.com",
+        "supression_sum": 0.4,
+        "avoidance_sum": 0.1,
+        "reappraisal_sum": 0.3,
+        "label": 1
+      },
+      "ermia121467@yahoo.com": {
+        "Email=": "ermia121467@yahoo.com",
+        "supression_sum": 0.35,
+        "avoidance_sum": 0.175,
+        "reappraisal_sum": 0.7125,
+        "label": 1
+      },
+      "amirh.dev21@gmail.com": {
+        "Email=": "amirh.dev21@gmail.com",
+        "supression_sum": 0.725,
+        "avoidance_sum": 0.7625,
+        "reappraisal_sum": 0.55,
+        "label": 1
+      },
+      "alidj4040@gmail.com": {
+        "Email=": "alidj4040@gmail.com",
+        "supression_sum": 0.4875,
+        "avoidance_sum": 0.425,
+        "reappraisal_sum": 0.4,
+        "label": 0
+      },
+      "maede.as.777@gmail.com": {
+        "Email=": "maede.as.777@gmail.com",
+        "supression_sum": 0.75,
+        "avoidance_sum": 0.7625,
+        "reappraisal_sum": 0.475,
+        "label": 0
+      },
+      "n.ziaian@yahoo.com": {
+        "Email=": "n.ziaian@yahoo.com",
+        "supression_sum": 0.8125,
+        "avoidance_sum": 0.6625,
+        "reappraisal_sum": 0.3125,
+        "label": 0
+      },
+      "s.k.131378@gmail.com": {
+        "Email=": "s.k.131378@gmail.com",
+        "supression_sum": 0.525,
+        "avoidance_sum": 0.525,
+        "reappraisal_sum": 0.5,
+        "label": 0
+      },
+      "hoda.kateb@yahoo.com": {
+        "Email=": "hoda.kateb@yahoo.com",
+        "supression_sum": 0.65,
+        "avoidance_sum": 0.7,
+        "reappraisal_sum": 0.325,
+        "label": 0
+      },
+      "alireza.moradi97@gmail.com": {
+        "Email=": "alireza.moradi97@gmail.com",
+        "supression_sum": 0.6125,
+        "avoidance_sum": 0.5125,
+        "reappraisal_sum": 0.475,
+        "label": 1
+      },
+      "shojaie.mahdi@gmail.com": {
+        "Email=": "shojaie.mahdi@gmail.com",
+        "supression_sum": 0.525,
+        "avoidance_sum": 0.3875,
+        "reappraisal_sum": 0.2875,
+        "label": 1
+      },
+      "roronakatsushi99@gmail.com": {
+        "Email=": "roronakatsushi99@gmail.com",
+        "supression_sum": 0.2875,
+        "avoidance_sum": 0.4,
+        "reappraisal_sum": 0.25,
+        "label": 0
+      },
+      "fatemehsadeghi8021@gmail.com": {
+        "Email=": "fatemehsadeghi8021@gmail.com",
+        "supression_sum": 0.4125,
+        "avoidance_sum": 0.2,
+        "reappraisal_sum": 0.5375,
+        "label": 1
+      },
+      "2a.jabb@gmail.com": {
+        "Email=": "2a.jabb@gmail.com",
+        "supression_sum": 0.5875,
+        "avoidance_sum": 0.3625,
+        "reappraisal_sum": 0.4375,
+        "label": 0
+      },
+      "delaram.zamani70@gmail.com": {
+        "Email=": "delaram.zamani70@gmail.com",
+        "supression_sum": 0.1875,
+        "avoidance_sum": 0.25,
+        "reappraisal_sum": 0.5625,
+        "label": 1
+      },
+      "mrsenioruni@gmail.com": {
+        "Email=": "mrsenioruni@gmail.com",
+        "supression_sum": 0.5625,
+        "avoidance_sum": 0.5625,
+        "reappraisal_sum": 0.5125,
+        "label": 1
+      },
+      "khatere3032@gmail.com": {
+        "Email=": "khatere3032@gmail.com",
+        "supression_sum": 0.5875,
+        "avoidance_sum": 0.4875,
+        "reappraisal_sum": 0.6625,
+        "label": 1
+      },
+      "sarafarhadiiiiiiiii9@gmail.com": {
+        "Email=": "sarafarhadiiiiiiiii9@gmail.com",
+        "supression_sum": 0.4125,
+        "avoidance_sum": 0.4625,
+        "reappraisal_sum": 0.5,
+        "label": 1
+      },
+      "m-dolatpur@gmail.com": {
+        "Email=": "m-dolatpur@gmail.com",
+        "supression_sum": 0.425,
+        "avoidance_sum": 0.4,
+        "reappraisal_sum": 0.175,
+        "label": 0
+      },
+      "amir_borjali2885@yahoo.com": {
+        "Email=": "amir_borjali2885@yahoo.com",
+        "supression_sum": 0.125,
+        "avoidance_sum": 0,
+        "reappraisal_sum": 0.35,
+        "label": 1
+      },
+      "saba.hoseini@hotmail.com": {
+        "Email=": "saba.hoseini@hotmail.com",
+        "supression_sum": 0.3,
+        "avoidance_sum": 0.2625,
+        "reappraisal_sum": 0.5,
+        "label": 1
+      },
+      "mah.j1378@gmail.com": {
+        "Email=": "mah.j1378@gmail.com",
+        "supression_sum": 0.5125,
+        "avoidance_sum": 0.525,
+        "reappraisal_sum": 0.3375,
+        "label": 1
+      },
+      "hossein80n@yahoo.com": {
+        "Email=": "hossein80n@yahoo.com",
+        "supression_sum": 0.775,
+        "avoidance_sum": 0.75,
+        "reappraisal_sum": 0.5375,
+        "label": 0
+      },
+      "dreamermaryam@gmail.com": {
+        "Email=": "dreamermaryam@gmail.com",
+        "supression_sum": 0.375,
+        "avoidance_sum": 0.3125,
+        "reappraisal_sum": 0.4875,
+        "label": 1
+      },
+      "sheida1895@outlook.com": {
+        "Email=": "sheida1895@outlook.com",
+        "supression_sum": 0.2,
+        "avoidance_sum": 0.05,
+        "reappraisal_sum": 0.725,
+        "label": 1
+      },
+      "f.rajabi13800815@gmail.com": {
+        "Email=": "f.rajabi13800815@gmail.com",
+        "supression_sum": 0.35,
+        "avoidance_sum": 0.1625,
+        "reappraisal_sum": 0.5125,
+        "label": 1
+      },
+      "nazarisaba97@gmail.com": {
+        "Email=": "nazarisaba97@gmail.com",
+        "supression_sum": 0.65,
+        "avoidance_sum": 0.7875,
+        "reappraisal_sum": 0.025,
+        "label": 0
+      },
+      "m.raoofi1993@gmail.com": {
+        "Email=": "m.raoofi1993@gmail.com",
+        "supression_sum": 0.2375,
+        "avoidance_sum": 0.025,
+        "reappraisal_sum": 0.75,
+        "label": 1
+      },
+      "naz.b77@yahoo.com": {
+        "Email=": "naz.b77@yahoo.com",
+        "supression_sum": 0.6125,
+        "avoidance_sum": 0.55,
+        "reappraisal_sum": 0.375,
+        "label": 1
+      },
+      "hamini9978@gmail.com": {
+        "Email=": "hamini9978@gmail.com",
+        "supression_sum": 0.475,
+        "avoidance_sum": 0.3375,
+        "reappraisal_sum": 0.575,
+        "label": 1
+      },
+      "arianfiroozi3@gmail.com": {
+        "Email=": "arianfiroozi3@gmail.com",
+        "supression_sum": 0.55,
+        "avoidance_sum": 0.4125,
+        "reappraisal_sum": 0.6125,
+        "label": 1
+      },
+      "saraaghaee96@gmail.com": {
+        "Email=": "saraaghaee96@gmail.com",
+        "supression_sum": 0.05,
+        "avoidance_sum": 0.3875,
+        "reappraisal_sum": 0.4375,
+        "label": 1
+      },
+      "samirazolfagharian@gmail.com": {
+        "Email=": "samirazolfagharian@gmail.com",
+        "supression_sum": 0.4,
+        "avoidance_sum": 0.4125,
+        "reappraisal_sum": 0.1375,
+        "label": 0
+      },
+      "amir987725@gmail.com": {
+        "Email=": "amir987725@gmail.com",
+        "supression_sum": 0.525,
+        "avoidance_sum": 0.6875,
+        "reappraisal_sum": 0.175,
+        "label": 0
+      },
+      "samadpoursajjad72@gmail.com": {
+        "Email=": "samadpoursajjad72@gmail.com",
+        "supression_sum": 0.3375,
+        "avoidance_sum": 0.5125,
+        "reappraisal_sum": 0.4625,
+        "label": 1
+      },
+      "kfarahza1376@gmail.com": {
+        "Email=": "kfarahza1376@gmail.com",
+        "supression_sum": 0.375,
+        "avoidance_sum": 0.2375,
+        "reappraisal_sum": 0.675,
+        "label": 1
+      },
+      "mr.rostamabadi2000@gmail.com": {
+        "Email=": "mr.rostamabadi2000@gmail.com",
+        "supression_sum": 0.5,
+        "avoidance_sum": 0.4125,
+        "reappraisal_sum": 0.3625,
+        "label": 1
+      },
+      "ali.m.lotfi99@gmail.com": {
+        "Email=": "ali.m.lotfi99@gmail.com",
+        "supression_sum": 0.3375,
+        "avoidance_sum": 0.35,
+        "reappraisal_sum": 0.275,
+        "label": 1
+      },
+      "roxana.yzd26@gmail.com": {
+        "Email=": "roxana.yzd26@gmail.com",
+        "supression_sum": 0.475,
+        "avoidance_sum": 0.4125,
+        "reappraisal_sum": 0.575,
+        "label": 1
+      },
+      "book.with.hodhod@gmail.com": {
+        "Email=": "book.with.hodhod@gmail.com",
+        "supression_sum": 0.5125,
+        "avoidance_sum": 0.2,
+        "reappraisal_sum": 0.75,
+        "label": 1
+      },
+      "hanane.dehghan1400@gmail.com": {
+        "Email=": "hanane.dehghan1400@gmail.com",
+        "supression_sum": 0.5375,
+        "avoidance_sum": 0.5125,
+        "reappraisal_sum": 0.5125,
+        "label": 1
+      },
+      "koroshshirdel2021@gmail.com": {
+        "Email=": "koroshshirdel2021@gmail.com",
+        "supression_sum": 0.375,
+        "avoidance_sum": 0.3625,
+        "reappraisal_sum": 0.475,
+        "label": 1
+      },
+      "kiana.kh2002@gmail.com": {
+        "Email=": "kiana.kh2002@gmail.com",
+        "supression_sum": 0.5125,
+        "avoidance_sum": 0.4625,
+        "reappraisal_sum": 0.425,
+        "label": 0
+      },
+      "www.fazilatalizadeh@gmail.com": {
+        "Email=": "www.fazilatalizadeh@gmail.com",
+        "supression_sum": 0.4875,
+        "avoidance_sum": 0.35,
+        "reappraisal_sum": 0.25,
+        "label": 1
+      },
+      "noughtygirl.fh@gmail.com": {
+        "Email=": "noughtygirl.fh@gmail.com",
+        "supression_sum": 0.725,
+        "avoidance_sum": 0.675,
+        "reappraisal_sum": 0.55,
+        "label": 1
+      },
+      "nouradarzi82@gmail.com": {
+        "Email=": "nouradarzi82@gmail.com",
+        "supression_sum": 0.45,
+        "avoidance_sum": 0.425,
+        "reappraisal_sum": 0.05,
+        "label": 1
+      },
+      "k77sobhani@gmail.com": {
+        "Email=": "k77sobhani@gmail.com",
+        "supression_sum": 0.5,
+        "avoidance_sum": 0.325,
+        "reappraisal_sum": 0.45,
+        "label": 1
+      },
+      "marjan.1377@gmail.com": {
+        "Email=": "marjan.1377@gmail.com",
+        "supression_sum": 0.55,
+        "avoidance_sum": 0.75,
+        "reappraisal_sum": 0.325,
+        "label": 0
+      },
+      "mollaeemina@gmail.com": {
+        "Email=": "mollaeemina@gmail.com",
+        "supression_sum": 0.425,
+        "avoidance_sum": 0.6375,
+        "reappraisal_sum": 0.2375,
+        "label": 0
+      },
+      "zaramohmadi04@gnail.com": {
+        "Email=": "zaramohmadi04@gnail.com",
+        "supression_sum": 0.4,
+        "avoidance_sum": 0.325,
+        "reappraisal_sum": 0.4375,
+        "label": 1
+      },
+      "fari77cat@yahoo.com": {
+        "Email=": "fari77cat@yahoo.com",
+        "supression_sum": 0.6375,
+        "avoidance_sum": 0.725,
+        "reappraisal_sum": 0.525,
+        "label": 0
+      },
+      "mahdimansourikhah@gmail.com": {
+        "Email=": "mahdimansourikhah@gmail.com",
+        "supression_sum": 0,
+        "avoidance_sum": 0.2125,
+        "reappraisal_sum": 0.45,
+        "label": 1
+      },
+      "Maryam.akhshi@gmail.com": {
+        "Email=": "Maryam.akhshi@gmail.com",
+        "supression_sum": 0.425,
+        "avoidance_sum": 0.25,
+        "reappraisal_sum": 0.5625,
+        "label": 1
+      },
+      "sasamsam96@yahoo.com": {
+        "Email=": "sasamsam96@yahoo.com",
+        "supression_sum": 0.2625,
+        "avoidance_sum": 0.6125,
+        "reappraisal_sum": 0.05,
+        "label": 0
+      },
+      "rm.kabiri@aut.ac.ir": {
+        "Email=": "rm.kabiri@aut.ac.ir",
+        "supression_sum": 0.175,
+        "avoidance_sum": 0.325,
+        "reappraisal_sum": 0.275,
+        "label": 1
+      },
+      "saharsiahtiri00@gmail.com": {
+        "Email=": "saharsiahtiri00@gmail.com",
+        "supression_sum": 0.7875,
+        "avoidance_sum": 0.875,
+        "reappraisal_sum": 0.1875,
+        "label": 0
+      },
+      "sparastoo98@gmail.com": {
+        "Email=": "sparastoo98@gmail.com",
+        "supression_sum": 0.525,
+        "avoidance_sum": 0.7625,
+        "reappraisal_sum": 0,
+        "label": 0
+      },
+      "fatemeh.goli7@gmail.com": {
+        "Email=": "fatemeh.goli7@gmail.com",
+        "supression_sum": 0.2625,
+        "avoidance_sum": 0.275,
+        "reappraisal_sum": 0.075,
+        "label": 0
+      },
+      "salehi.p.1379@gmail.com": {
+        "Email=": "salehi.p.1379@gmail.com",
+        "supression_sum": 0.75,
+        "avoidance_sum": 0.675,
+        "reappraisal_sum": 0.4875,
+        "label": 1
+      },
+      "jiutlook@gmail.com": {
+        "Email=": "jiutlook@gmail.com",
+        "supression_sum": 0.3125,
+        "avoidance_sum": 0.3125,
+        "reappraisal_sum": 0.7,
+        "label": 1
+      },
+      "parniaarashmhrp1380@gmail.com": {
+        "Email=": "parniaarashmhrp1380@gmail.com",
+        "supression_sum": 0.5125,
+        "avoidance_sum": 0.475,
+        "reappraisal_sum": 0.375,
+        "label": 1
+      },
+      "0what.ever02@gmail.com": {
+        "Email=": "0what.ever02@gmail.com",
+        "supression_sum": 0.625,
+        "avoidance_sum": 0.5375,
+        "reappraisal_sum": 0.3875,
+        "label": 1
+      },
+      "laaa41333@gmail.com": {
+        "Email=": "laaa41333@gmail.com",
+        "supression_sum": 0.4125,
+        "avoidance_sum": 0.175,
+        "reappraisal_sum": 0.15,
+        "label": 1
+      },
+      "gh.darabi80@gmail.com": {
+        "Email=": "gh.darabi80@gmail.com",
+        "supression_sum": 0.7,
+        "avoidance_sum": 0.7125,
+        "reappraisal_sum": 0.4375,
+        "label": 0
+      },
+      "sarinazare81@gmail.com": {
+        "Email=": "sarinazare81@gmail.com",
+        "supression_sum": 0.3375,
+        "avoidance_sum": 0.075,
+        "reappraisal_sum": 0.4875,
+        "label": 1
+      },
+      "htrzit@gmail.com": {
+        "Email=": "htrzit@gmail.com",
+        "supression_sum": 0.5375,
+        "avoidance_sum": 0.5625,
+        "reappraisal_sum": 0.2625,
+        "label": 1
+      },
+      "lovely.brilliant.2000@gmail.com": {
+        "Email=": "lovely.brilliant.2000@gmail.com",
+        "supression_sum": 0.525,
+        "avoidance_sum": 0.45,
+        "reappraisal_sum": 0.2,
+        "label": 1
+      },
+      "jformm3@gmail.com": {
+        "Email=": "jformm3@gmail.com",
+        "supression_sum": 0.65,
+        "avoidance_sum": 0.4875,
+        "reappraisal_sum": 0.45,
+        "label": 0
+      },
+      "atashgah5@gmail.com": {
+        "Email=": "atashgah5@gmail.com",
+        "supression_sum": 0.175,
+        "avoidance_sum": 0.175,
+        "reappraisal_sum": 0.35,
+        "label": 0
+      },
+      "dabiri1377@gmail.com": {
+        "Email=": "dabiri1377@gmail.com",
+        "supression_sum": 0.6375,
+        "avoidance_sum": 0.55,
+        "reappraisal_sum": 0.425,
+        "label": 1
+      },
+      "sa.nojavan@gmail.com": {
+        "Email=": "sa.nojavan@gmail.com",
+        "supression_sum": 0.2625,
+        "avoidance_sum": 0.1625,
+        "reappraisal_sum": 0.55,
+        "label": 1
+      },
+      "HADIUTAGHVAEI@GMAIL.COM": {
+        "Email=": "HADIUTAGHVAEI@GMAIL.COM",
+        "supression_sum": 0.55,
+        "avoidance_sum": 0.525,
+        "reappraisal_sum": 0.4875,
+        "label": 1
+      },
+      "hhosseini399@yahoo.com": {
+        "Email=": "hhosseini399@yahoo.com",
+        "supression_sum": 0.3,
+        "avoidance_sum": 0.3,
+        "reappraisal_sum": 0.6625,
+        "label": 1
+      },
+      "butterjjgg2344@gmail.com": {
+        "Email=": "butterjjgg2344@gmail.com",
+        "supression_sum": 0.5125,
+        "avoidance_sum": 0.6,
+        "reappraisal_sum": 0.5625,
+        "label": 0
+      },
+      "yazdan.abdehatamie@gmail.com": {
+        "Email=": "yazdan.abdehatamie@gmail.com",
+        "supression_sum": 0.825,
+        "avoidance_sum": 0.7875,
+        "reappraisal_sum": 0.4875,
+        "label": 0
+      },
+      "parisafarhangi1379@gmail.com": {
+        "Email=": "parisafarhangi1379@gmail.com",
+        "supression_sum": 0.3875,
+        "avoidance_sum": 0.35,
+        "reappraisal_sum": 0.2,
+        "label": 0
+      },
+      "hesabi6890@aut.ac.ir": {
+        "Email=": "hesabi6890@aut.ac.ir",
+        "supression_sum": 0.6125,
+        "avoidance_sum": 0.7,
+        "reappraisal_sum": 0.4875,
+        "label": 0
+      },
+      "ftm.kazemi.1379@gmail.com": {
+        "Email=": "ftm.kazemi.1379@gmail.com",
+        "supression_sum": 0.4125,
+        "avoidance_sum": 0.2875,
+        "reappraisal_sum": 0.6125,
+        "label": 1
+      },
+      "soheildavoudi98@gmail.com": {
+        "Email=": "soheildavoudi98@gmail.com",
+        "supression_sum": 0.3125,
+        "avoidance_sum": 0.5375,
+        "reappraisal_sum": 0.325,
+        "label": 0
+      },
+      "zahra.sadghi272@gmail.com": {
+        "Email=": "zahra.sadghi272@gmail.com",
+        "supression_sum": 0.5375,
+        "avoidance_sum": 0.4625,
+        "reappraisal_sum": 0.4625,
+        "label": 1
+      },
+      "golids15@gmail.com": {
+        "Email=": "golids15@gmail.com",
+        "supression_sum": 0.55,
+        "avoidance_sum": 0.6,
+        "reappraisal_sum": 0.425,
+        "label": 0
+      },
+      "faride.kishipour81@gmail.com": {
+        "Email=": "faride.kishipour81@gmail.com",
+        "supression_sum": 0.4875,
+        "avoidance_sum": 0.125,
+        "reappraisal_sum": 0.125,
+        "label": 1
+      },
+      "marzimirjamal88@gmail.com": {
+        "Email=": "marzimirjamal88@gmail.com",
+        "supression_sum": 0.1875,
+        "avoidance_sum": 0.25,
+        "reappraisal_sum": 0.2625,
+        "label": 1
+      },
+      "amirmahdizad@gmail.com": {
+        "Email=": "amirmahdizad@gmail.com",
+        "supression_sum": 0.1375,
+        "avoidance_sum": 0.55,
+        "reappraisal_sum": 0.0875,
+        "label": 0
+      },
+      "melika.as81@gmail.com": {
+        "Email=": "melika.as81@gmail.com",
+        "supression_sum": 0.5375,
+        "avoidance_sum": 0.3625,
+        "reappraisal_sum": 0.7125,
+        "label": 1
+      },
+      "meli.lily16@gmail.com": {
+        "Email=": "meli.lily16@gmail.com",
+        "supression_sum": 0.5375,
+        "avoidance_sum": 0.5625,
+        "reappraisal_sum": 0.425,
+        "label": 1
+      },
+      "h.honarpisheh@gmail.com": {
+        "Email=": "h.honarpisheh@gmail.com",
+        "supression_sum": 0.225,
+        "avoidance_sum": 0.3375,
+        "reappraisal_sum": 0.4125,
+        "label": 1
+      },
+      "shaghayeghdehghansanij@gmail.com": {
+        "Email=": "shaghayeghdehghansanij@gmail.com",
+        "supression_sum": 0.25,
+        "avoidance_sum": 0.45,
+        "reappraisal_sum": 0.35,
+        "label": 1
+      },
+      "elshanbahojb@gmail.com": {
+        "Email=": "elshanbahojb@gmail.com",
+        "supression_sum": 0.35,
+        "avoidance_sum": 0.175,
+        "reappraisal_sum": 0.225,
+        "label": 1
+      },
+      "mdpn0831@gmail.com": {
+        "Email=": "mdpn0831@gmail.com",
+        "supression_sum": 0.0375,
+        "avoidance_sum": 0.4875,
+        "reappraisal_sum": 0,
+        "label": 0
+      },
+      "falanach.rahimnia@gmail.com": {
+        "Email=": "falanach.rahimnia@gmail.com",
+        "supression_sum": 0.325,
+        "avoidance_sum": 0.05,
+        "reappraisal_sum": 0.7375,
+        "label": 1
+      },
+      "ali.kayhanpanah@gmail.com": {
+        "Email=": "ali.kayhanpanah@gmail.com",
+        "supression_sum": 0.3625,
+        "avoidance_sum": 0.2625,
+        "reappraisal_sum": 0.7375,
+        "label": 1
+      },
+      "rezaghavipanjeh675@gmail.com": {
+        "Email=": "rezaghavipanjeh675@gmail.com",
+        "supression_sum": 0.4,
+        "avoidance_sum": 0.3375,
+        "reappraisal_sum": 0.25,
+        "label": 0
+      },
+      "edris.r73@gmail.com": {
+        "Email=": "edris.r73@gmail.com",
+        "supression_sum": 0.575,
+        "avoidance_sum": 0.425,
+        "reappraisal_sum": 0.6125,
+        "label": 1
+      },
+      "rhomayoonmehr@gmail.com": {
+        "Email=": "rhomayoonmehr@gmail.com",
+        "supression_sum": 0.475,
+        "avoidance_sum": 0.2125,
+        "reappraisal_sum": 0.4,
+        "label": 1
+      },
+      "reyhanehnazarkhah1@gmail.com": {
+        "Email=": "reyhanehnazarkhah1@gmail.com",
+        "supression_sum": 0.525,
+        "avoidance_sum": 0.2,
+        "reappraisal_sum": 0.3,
+        "label": 0
+      },
+      "mehrabady.rashidi@gmail.com": {
+        "Email=": "mehrabady.rashidi@gmail.com",
+        "supression_sum": 0.425,
+        "avoidance_sum": 0.3375,
+        "reappraisal_sum": 0.6,
+        "label": 1
+      },
+      "mariiii80md@gmail.com": {
+        "Email=": "mariiii80md@gmail.com",
+        "supression_sum": 0.675,
+        "avoidance_sum": 0.4,
+        "reappraisal_sum": 0.525,
+        "label": 1
+      },
+      "fatemelk@yahoo.com": {
+        "Email=": "fatemelk@yahoo.com",
+        "supression_sum": 0.3125,
+        "avoidance_sum": 0.475,
+        "reappraisal_sum": 0.5,
+        "label": 1
+      },
+      "shabnam1e77@gmail.com": {
+        "Email=": "shabnam1e77@gmail.com",
+        "supression_sum": 0.3875,
+        "avoidance_sum": 0.225,
+        "reappraisal_sum": 0.1375,
+        "label": 1
+      },
+      "aghaalimasood@gmail.com": {
+        "Email=": "aghaalimasood@gmail.com",
+        "supression_sum": 0.375,
+        "avoidance_sum": 0.3125,
+        "reappraisal_sum": 0.4375,
+        "label": 1
+      },
+      "lblue.spritel@gmail.com": {
+        "Email=": "lblue.spritel@gmail.com",
+        "supression_sum": 0.575,
+        "avoidance_sum": 0.7,
+        "reappraisal_sum": 0.4125,
+        "label": 0
+      },
+      "at.rahimifard80@gmail.com": {
+        "Email=": "at.rahimifard80@gmail.com",
+        "supression_sum": 0.4625,
+        "avoidance_sum": 0.4125,
+        "reappraisal_sum": 0.5,
+        "label": 1
+      },
+      "smitra.hosseini@yahoo.com": {
+        "Email=": "smitra.hosseini@yahoo.com",
+        "supression_sum": 0.275,
+        "avoidance_sum": 0.2625,
+        "reappraisal_sum": 0.2625,
+        "label": 1
+      },
+      "Hadisalehisani@gmail.com": {
+        "Email=": "Hadisalehisani@gmail.com",
+        "supression_sum": 0.65,
+        "avoidance_sum": 0.6,
+        "reappraisal_sum": 0.2625,
+        "label": 0
+      },
+      "tina.sh.94@gmail.com": {
+        "Email=": "tina.sh.94@gmail.com",
+        "supression_sum": 0.3125,
+        "avoidance_sum": 0.3125,
+        "reappraisal_sum": 0.375,
+        "label": 1
+      },
+      "aghaei_reyhaneh@yahoo.com": {
+        "Email=": "aghaei_reyhaneh@yahoo.com",
+        "supression_sum": 0.6125,
+        "avoidance_sum": 0.8,
+        "reappraisal_sum": 0.15,
+        "label": 0
+      },
+      "samirakhalilpoor7923@gmail.com": {
+        "Email=": "samirakhalilpoor7923@gmail.com",
+        "supression_sum": 0.325,
+        "avoidance_sum": 0.55,
+        "reappraisal_sum": 0.25,
+        "label": 0
+      },
+      "mahsamoazez@yahoo.com": {
+        "Email=": "mahsamoazez@yahoo.com",
+        "supression_sum": 0.5125,
+        "avoidance_sum": 0.35,
+        "reappraisal_sum": 0.475,
+        "label": 1
+      },
+      "amirkarimi91117@gmail.com": {
+        "Email=": "amirkarimi91117@gmail.com",
+        "supression_sum": 0.4375,
+        "avoidance_sum": 0.4,
+        "reappraisal_sum": 0.4,
+        "label": 1
+      },
+      "nazanin.8035@gmail.com": {
+        "Email=": "nazanin.8035@gmail.com",
+        "supression_sum": 0.6125,
+        "avoidance_sum": 0.575,
+        "reappraisal_sum": 0.475,
+        "label": 1
+      },
+      "Fereshtehheydari2001@yahoo.cam": {
+        "Email=": "Fereshtehheydari2001@yahoo.cam",
+        "supression_sum": 0.8625,
+        "avoidance_sum": 0.775,
+        "reappraisal_sum": 0.1875,
+        "label": 0
+      },
+      "sana.rashidi.96@gmail.com": {
+        "Email=": "sana.rashidi.96@gmail.com",
+        "supression_sum": 0.7,
+        "avoidance_sum": 0.45,
+        "reappraisal_sum": 0.4125,
+        "label": 0
+      },
+      "siminaboutalebi@gmail.com": {
+        "Email=": "siminaboutalebi@gmail.com",
+        "supression_sum": 0.1,
+        "avoidance_sum": 0.05,
+        "reappraisal_sum": 0.675,
+        "label": 1
+      },
+      "fateme.ssalehi@gmail.com": {
+        "Email=": "fateme.ssalehi@gmail.com",
+        "supression_sum": 0.2625,
+        "avoidance_sum": 0.2375,
+        "reappraisal_sum": 0.4125,
+        "label": 1
+      },
+      "aameli.mahmoud@gmail.com": {
+        "Email=": "aameli.mahmoud@gmail.com",
+        "supression_sum": 0.2875,
+        "avoidance_sum": 0.1875,
+        "reappraisal_sum": 0.45,
+        "label": 1
+      },
+      "rezaeer80@gmail.com": {
+        "Email=": "rezaeer80@gmail.com",
+        "supression_sum": 0.6,
+        "avoidance_sum": 0.3125,
+        "reappraisal_sum": 0.65,
+        "label": 1
+      },
+      "marmarst579@gmail.com": {
+        "Email=": "marmarst579@gmail.com",
+        "supression_sum": 0.3375,
+        "avoidance_sum": 0.575,
+        "reappraisal_sum": 0.2375,
+        "label": 0
+      },
+      "mahdi_es70@yahoo.com": {
+        "Email=": "mahdi_es70@yahoo.com",
+        "supression_sum": 0.625,
+        "avoidance_sum": 0.6125,
+        "reappraisal_sum": 0.4125,
+        "label": 0
+      },
+      "m.yaghoubi1994@gmail.com": {
+        "Email=": "m.yaghoubi1994@gmail.com",
+        "supression_sum": 0.6125,
+        "avoidance_sum": 0.575,
+        "reappraisal_sum": 0.4375,
+        "label": 1
+      },
+      "nader.gholipour1156@gmail.com": {
+        "Email=": "nader.gholipour1156@gmail.com",
+        "supression_sum": 0.2125,
+        "avoidance_sum": 0.55,
+        "reappraisal_sum": 0.1125,
+        "label": 0
+      },
+      "s_zaroudi@yahoo.com": {
+        "Email=": "s_zaroudi@yahoo.com",
+        "supression_sum": 0.575,
+        "avoidance_sum": 0.4125,
+        "reappraisal_sum": 0.2375,
+        "label": 0
+      },
+      "nilofarvahnani@gmail.com": {
+        "Email=": "nilofarvahnani@gmail.com",
+        "supression_sum": 0.15,
+        "avoidance_sum": 0.1375,
+        "reappraisal_sum": 0.45,
+        "label": 1
+      },
+      "maryam.azami23@yahoo.com": {
+        "Email=": "maryam.azami23@yahoo.com",
+        "supression_sum": 0.325,
+        "avoidance_sum": 0.175,
+        "reappraisal_sum": 0.4,
+        "label": 1
+      },
+      "ali.hatami@ut.ac.ir": {
+        "Email=": "ali.hatami@ut.ac.ir",
+        "supression_sum": 0.0875,
+        "avoidance_sum": 0.2625,
+        "reappraisal_sum": 0.525,
+        "label": 1
+      },
+      "shirinebrahimi540@gmail.com": {
+        "Email=": "shirinebrahimi540@gmail.com",
+        "supression_sum": 0.35,
+        "avoidance_sum": 0.2625,
+        "reappraisal_sum": 0.2375,
+        "label": 1
+      },
+      "rouzimaryam@yahoo.com": {
+        "Email=": "rouzimaryam@yahoo.com",
+        "supression_sum": 0.5,
+        "avoidance_sum": 0.45,
+        "reappraisal_sum": 0.225,
+        "label": 0
+      },
+      "nikou1399@gmail.com": {
+        "Email=": "nikou1399@gmail.com",
+        "supression_sum": 0.675,
+        "avoidance_sum": 0.7625,
+        "reappraisal_sum": 0.2625,
+        "label": 0
+      },
+      "araz.mehdizadeh1994@gmail.com": {
+        "Email=": "araz.mehdizadeh1994@gmail.com",
+        "supression_sum": 0.6125,
+        "avoidance_sum": 0.35,
+        "reappraisal_sum": 0.4,
+        "label": 1
+      },
+      "mohsen7910@gmail.com": {
+        "Email=": "mohsen7910@gmail.com",
+        "supression_sum": 0.175,
+        "avoidance_sum": 0.0625,
+        "reappraisal_sum": 0.7125,
+        "label": 1
+      },
+      "mnazemian98@gmail.com": {
+        "Email=": "mnazemian98@gmail.com",
+        "supression_sum": 0.5625,
+        "avoidance_sum": 0.625,
+        "reappraisal_sum": 0.525,
+        "label": 0
+      },
+      "Mohaafra71@gmail.com": {
+        "Email=": "Mohaafra71@gmail.com",
+        "supression_sum": 0.675,
+        "avoidance_sum": 0.725,
+        "reappraisal_sum": 0.2375,
+        "label": 0
+      },
+      "mojtaba93@yahoo.com": {
+        "Email=": "mojtaba93@yahoo.com",
+        "supression_sum": 0.4375,
+        "avoidance_sum": 0.725,
+        "reappraisal_sum": 0.1125,
+        "label": 0
+      },
+      "minoo.ameli@yahoo.com": {
+        "Email=": "minoo.ameli@yahoo.com",
+        "supression_sum": 0.65,
+        "avoidance_sum": 0.675,
+        "reappraisal_sum": 0.4875,
+        "label": 0
+      },
+      "z.ahmadi1381@gmail.com": {
+        "Email=": "z.ahmadi1381@gmail.com",
+        "supression_sum": 0.8375,
+        "avoidance_sum": 0.8375,
+        "reappraisal_sum": 0.4375,
+        "label": 1
+      },
+      "yeganehdream2001@gmail.com": {
+        "Email=": "yeganehdream2001@gmail.com",
+        "supression_sum": 0.45,
+        "avoidance_sum": 0.2875,
+        "reappraisal_sum": 0.6,
+        "label": 1
+      },
+      "mahmoudpour.ho@gmail.com": {
+        "Email=": "mahmoudpour.ho@gmail.com",
+        "supression_sum": 0.775,
+        "avoidance_sum": 0.4875,
+        "reappraisal_sum": 0.7125,
+        "label": 1
+      },
+      "bodaghiali72@gmail.com": {
+        "Email=": "bodaghiali72@gmail.com",
+        "supression_sum": 0.55,
+        "avoidance_sum": 0.4625,
+        "reappraisal_sum": 0.3125,
+        "label": 0
+      },
+      "negarrtalebi@gmail.com": {
+        "Email=": "negarrtalebi@gmail.com",
+        "supression_sum": 0.6,
+        "avoidance_sum": 0.5625,
+        "reappraisal_sum": 0.55,
+        "label": 1
+      },
+      "mehregan.ghadiri@gmail.com": {
+        "Email=": "mehregan.ghadiri@gmail.com",
+        "supression_sum": 0.3625,
+        "avoidance_sum": 0.475,
+        "reappraisal_sum": 0.3625,
+        "label": 1
+      },
+      "kasrakhajenoori@yahoo.com": {
+        "Email=": "kasrakhajenoori@yahoo.com",
+        "supression_sum": 0.4,
+        "avoidance_sum": 0.225,
+        "reappraisal_sum": 0.175,
+        "label": 1
+      },
+      "mo.amirho@yahoo.com": {
+        "Email=": "mo.amirho@yahoo.com",
+        "supression_sum": 0.5625,
+        "avoidance_sum": 0.45,
+        "reappraisal_sum": 0.3625,
+        "label": 1
+      },
+      "miss.teantean@gmail.com": {
+        "Email=": "miss.teantean@gmail.com",
+        "supression_sum": 0.65,
+        "avoidance_sum": 0.5875,
+        "reappraisal_sum": 0.4,
+        "label": 1
+      },
+      "fahime.shabani718@gmail.com": {
+        "Email=": "fahime.shabani718@gmail.com",
+        "supression_sum": 0.425,
+        "avoidance_sum": 0.3625,
+        "reappraisal_sum": 0.525,
+        "label": 1
+      },
+      "thisismaryamfrdn@gmail.com": {
+        "Email=": "thisismaryamfrdn@gmail.com",
+        "supression_sum": 0.1,
+        "avoidance_sum": 0.525,
+        "reappraisal_sum": 0.2,
+        "label": 0
+      },
+      "ali.al_07@yahoo.com": {
+        "Email=": "ali.al_07@yahoo.com",
+        "supression_sum": 0.3125,
+        "avoidance_sum": 0.2875,
+        "reappraisal_sum": 0.4125,
+        "label": 1
+      },
+      "frzbrmnd@gmail.com": {
+        "Email=": "frzbrmnd@gmail.com",
+        "supression_sum": 0.6625,
+        "avoidance_sum": 0.4,
+        "reappraisal_sum": 0.25,
+        "label": 1
+      },
+      "mikelking3000@gmail.com": {
+        "Email=": "mikelking3000@gmail.com",
+        "supression_sum": 0.4875,
+        "avoidance_sum": 0.775,
+        "reappraisal_sum": 0.2375,
+        "label": 0
+      },
+      "maryamfl1381@gmail.com": {
+        "Email=": "maryamfl1381@gmail.com",
+        "supression_sum": 0.65,
+        "avoidance_sum": 0.675,
+        "reappraisal_sum": 0.625,
+        "label": 1
+      },
+      "maryamissaiyan@gmail.com": {
+        "Email=": "maryamissaiyan@gmail.com",
+        "supression_sum": 0.525,
+        "avoidance_sum": 0.5375,
+        "reappraisal_sum": 0.7125,
+        "label": 0
+      },
+      "radaw2040@gmail.com": {
+        "Email=": "radaw2040@gmail.com",
+        "supression_sum": 0.3625,
+        "avoidance_sum": 0.1875,
+        "reappraisal_sum": 0.575,
+        "label": 1
+      },
+      "m.shamsabadi12@gmail.com": {
+        "Email=": "m.shamsabadi12@gmail.com",
+        "supression_sum": 0.3125,
+        "avoidance_sum": 0.225,
+        "reappraisal_sum": 0.15,
+        "label": 1
+      },
+      "melikasabzikari@gmail.com": {
+        "Email=": "melikasabzikari@gmail.com",
+        "supression_sum": 0.675,
+        "avoidance_sum": 0.6875,
+        "reappraisal_sum": 0.35,
+        "label": 0
+      },
+      "7325419@gmail.com": {
+        "Email=": "7325419@gmail.com",
+        "supression_sum": 0.775,
+        "avoidance_sum": 0.75,
+        "reappraisal_sum": 0.2875,
+        "label": 0
+      },
+      "cr7.messiszia@gmail.com": {
+        "Email=": "cr7.messiszia@gmail.com",
+        "supression_sum": 0.05,
+        "avoidance_sum": 0.0625,
+        "reappraisal_sum": 0.6125,
+        "label": 1
+      },
+      "mahsankt81@gmail.com": {
+        "Email=": "mahsankt81@gmail.com",
+        "supression_sum": 0.4875,
+        "avoidance_sum": 0.4875,
+        "reappraisal_sum": 0.6375,
+        "label": 1
+      },
+      "m.fariborzi19@gmail.com": {
+        "Email=": "m.fariborzi19@gmail.com",
+        "supression_sum": 0.4875,
+        "avoidance_sum": 0.425,
+        "reappraisal_sum": 0.4125,
+        "label": 1
+      },
+      "goliololo13524@gmail.com": {
+        "Email=": "goliololo13524@gmail.com",
+        "supression_sum": 0.1625,
+        "avoidance_sum": 0.525,
+        "reappraisal_sum": 0.05,
+        "label": 0
+      },
+      "rfarajzadetehrani@gmail.com": {
+        "Email=": "rfarajzadetehrani@gmail.com",
+        "supression_sum": 0.1125,
+        "avoidance_sum": 0.1375,
+        "reappraisal_sum": 0.4875,
+        "label": 1
+      },
+      "hesamkme2@gmail.com": {
+        "Email=": "hesamkme2@gmail.com",
+        "supression_sum": 0.2875,
+        "avoidance_sum": 0.225,
+        "reappraisal_sum": 0.525,
+        "label": 1
+      },
+      "rpanahi001@gmail.com": {
+        "Email=": "rpanahi001@gmail.com",
+        "supression_sum": 0.35,
+        "avoidance_sum": 0.1375,
+        "reappraisal_sum": 0.7,
+        "label": 1
+      },
+      "mashayekh1994@gmail.com": {
+        "Email=": "mashayekh1994@gmail.com",
+        "supression_sum": 0.625,
+        "avoidance_sum": 0.4375,
+        "reappraisal_sum": 0.1875,
+        "label": 0
+      },
+      "khademimaha@gmail.com": {
+        "Email=": "khademimaha@gmail.com",
+        "supression_sum": 0.6875,
+        "avoidance_sum": 0.375,
+        "reappraisal_sum": 0.45,
+        "label": 1
+      },
+      "aaliariana@gmail.com": {
+        "Email=": "aaliariana@gmail.com",
+        "supression_sum": 0.375,
+        "avoidance_sum": 0.525,
+        "reappraisal_sum": 0.6,
+        "label": 1
+      },
+      "zahrabo75@gmail.com": {
+        "Email=": "zahrabo75@gmail.com",
+        "supression_sum": 0.675,
+        "avoidance_sum": 0.4625,
+        "reappraisal_sum": 0.4125,
+        "label": 1
+      },
+      "roholla2001@gmail.com": {
+        "Email=": "roholla2001@gmail.com",
+        "supression_sum": 0.0875,
+        "avoidance_sum": 0.2125,
+        "reappraisal_sum": 0.525,
+        "label": 1
+      },
+      "mahdisnj@gmail.com": {
+        "Email=": "mahdisnj@gmail.com",
+        "supression_sum": 0.5125,
+        "avoidance_sum": 0.525,
+        "reappraisal_sum": 0.4,
+        "label": 1
+      },
+      "samin.jamjamshidi@gmail.com": {
+        "Email=": "samin.jamjamshidi@gmail.com",
+        "supression_sum": 0.5625,
+        "avoidance_sum": 0.5375,
+        "reappraisal_sum": 0.475,
+        "label": 1
+      },
+      "zahrahasani.b@gmail.com": {
+        "Email=": "zahrahasani.b@gmail.com",
+        "supression_sum": 0.4625,
+        "avoidance_sum": 0.2625,
+        "reappraisal_sum": 0.375,
+        "label": 1
+      },
+      "19.11.1377m@gmail.com": {
+        "Email=": "19.11.1377m@gmail.com",
+        "supression_sum": 0.375,
+        "avoidance_sum": 0.225,
+        "reappraisal_sum": 0.4625,
+        "label": 1
+      },
+      "mj.zadeh79@gmail.com": {
+        "Email=": "mj.zadeh79@gmail.com",
+        "supression_sum": 0.1,
+        "avoidance_sum": 0.1125,
+        "reappraisal_sum": 0.4,
+        "label": 1
+      },
+      "mahya.mkashani@gmail.com": {
+        "Email=": "mahya.mkashani@gmail.com",
+        "supression_sum": 0.6,
+        "avoidance_sum": 0.6125,
+        "reappraisal_sum": 0.4,
+        "label": 1
+      },
+      "hesesh0610@gmail.com": {
+        "Email=": "hesesh0610@gmail.com",
+        "supression_sum": 0.275,
+        "avoidance_sum": 0.3125,
+        "reappraisal_sum": 0.2,
+        "label": 1
+      },
+      "s.afkhami@yahoo.com": {
+        "Email=": "s.afkhami@yahoo.com",
+        "supression_sum": 0.3125,
+        "avoidance_sum": 0.15,
+        "reappraisal_sum": 0.45,
+        "label": 1
+      },
+      "maralabdolahi@yahoo.com": {
+        "Email=": "maralabdolahi@yahoo.com",
+        "supression_sum": 0.3,
+        "avoidance_sum": 0.1,
+        "reappraisal_sum": 0.45,
+        "label": 1
+      },
+      "kado.tanbal77@gmail.com": {
+        "Email=": "kado.tanbal77@gmail.com",
+        "supression_sum": 0.6,
+        "avoidance_sum": 0.325,
+        "reappraisal_sum": 0.275,
+        "label": 1
+      },
+      "amiri1216@yahoo.com": {
+        "Email=": "amiri1216@yahoo.com",
+        "supression_sum": 0.7875,
+        "avoidance_sum": 0.725,
+        "reappraisal_sum": 0.625,
+        "label": 0
+      },
+      "zf77zf20@yahoo.com": {
+        "Email=": "zf77zf20@yahoo.com",
+        "supression_sum": 0.2875,
+        "avoidance_sum": 0.1625,
+        "reappraisal_sum": 0.3625,
+        "label": 1
+      },
+      "atenarahmani505@gmail.com": {
+        "Email=": "atenarahmani505@gmail.com",
+        "supression_sum": 0.5,
+        "avoidance_sum": 0.1125,
+        "reappraisal_sum": 0.6125,
+        "label": 1
+      },
+      "sh.bakhsh79@gmail.com": {
+        "Email=": "sh.bakhsh79@gmail.com",
+        "supression_sum": 0.7625,
+        "avoidance_sum": 0.55,
+        "reappraisal_sum": 0.6,
+        "label": 1
+      },
+      "k.elham10068@gmail.com": {
+        "Email=": "k.elham10068@gmail.com",
+        "supression_sum": 0.7625,
+        "avoidance_sum": 0.7875,
+        "reappraisal_sum": 0.325,
+        "label": 0
+      },
+      "zahrasarrami7@gmail.com": {
+        "Email=": "zahrasarrami7@gmail.com",
+        "supression_sum": 0.6375,
+        "avoidance_sum": 0.475,
+        "reappraisal_sum": 0.5875,
+        "label": 1
+      },
+      "mahsa_7676@yahoo.com": {
+        "Email=": "mahsa_7676@yahoo.com",
+        "supression_sum": 0.3875,
+        "avoidance_sum": 0.25,
+        "reappraisal_sum": 0.5375,
+        "label": 1
+      },
+      "mohamad.zangooei@outlook.com": {
+        "Email=": "mohamad.zangooei@outlook.com",
+        "supression_sum": 0.2625,
+        "avoidance_sum": 0.2,
+        "reappraisal_sum": 0.675,
+        "label": 1
+      },
+      "ah.sabour@gmail.com": {
+        "Email=": "ah.sabour@gmail.com",
+        "supression_sum": 0.325,
+        "avoidance_sum": 0.15,
+        "reappraisal_sum": 0.7375,
+        "label": 1
+      },
+      "sheyda.panahi2512@gmail.com": {
+        "Email=": "sheyda.panahi2512@gmail.com",
+        "supression_sum": 0.325,
+        "avoidance_sum": 0.3,
+        "reappraisal_sum": 0.275,
+        "label": 1
+      },
+      "f.dastkar@yahoo.com": {
+        "Email=": "f.dastkar@yahoo.com",
+        "supression_sum": 0.3625,
+        "avoidance_sum": 0.3875,
+        "reappraisal_sum": 0.2,
+        "label": 0
+      },
+      "narges.zn.98@gmail.com": {
+        "Email=": "narges.zn.98@gmail.com",
+        "supression_sum": 0.4875,
+        "avoidance_sum": 0.4,
+        "reappraisal_sum": 0.525,
+        "label": 1
+      },
+      "alirahmani_78@yahoo.com": {
+        "Email=": "alirahmani_78@yahoo.com",
+        "supression_sum": 0.2125,
+        "avoidance_sum": 0.325,
+        "reappraisal_sum": 0.725,
+        "label": 1
+      },
+      "negar98mn@gmail.com": {
+        "Email=": "negar98mn@gmail.com",
+        "supression_sum": 0.7875,
+        "avoidance_sum": 0.675,
+        "reappraisal_sum": 0.2375,
+        "label": 0
+      },
+      "sogi.r1375@gmail.com": {
+        "Email=": "sogi.r1375@gmail.com",
+        "supression_sum": 0.0875,
+        "avoidance_sum": 0.875,
+        "reappraisal_sum": 0,
+        "label": 0
+      },
+      "farnam.taheri@yahoo.com": {
+        "Email=": "farnam.taheri@yahoo.com",
+        "supression_sum": 0.425,
+        "avoidance_sum": 0.2125,
+        "reappraisal_sum": 0.375,
+        "label": 1
+      },
+      "saleh.mthbah@gmail.com": {
+        "Email=": "saleh.mthbah@gmail.com",
+        "supression_sum": 0.5125,
+        "avoidance_sum": 0.55,
+        "reappraisal_sum": 0.35,
+        "label": 0
+      },
+      "Ebrahimisina879@gmail.com": {
+        "Email=": "Ebrahimisina879@gmail.com",
+        "supression_sum": 0.65,
+        "avoidance_sum": 0.725,
+        "reappraisal_sum": 0.475,
+        "label": 0
+      },
+      "sahar.amir1377@gmail.com": {
+        "Email=": "sahar.amir1377@gmail.com",
+        "supression_sum": 0.375,
+        "avoidance_sum": 0.35,
+        "reappraisal_sum": 0.325,
+        "label": 1
+      },
+      "rasoul167@yahoo.com": {
+        "Email=": "rasoul167@yahoo.com",
+        "supression_sum": 0.4,
+        "avoidance_sum": 0.275,
+        "reappraisal_sum": 0.6625,
+        "label": 1
+      },
+      "zahrafarzian@gmail.com": {
+        "Email=": "zahrafarzian@gmail.com",
+        "supression_sum": 0.1,
+        "avoidance_sum": 0.2,
+        "reappraisal_sum": 0.3375,
+        "label": 1
+      },
+      "a.noruzi987@yahoo.com": {
+        "Email=": "a.noruzi987@yahoo.com",
+        "supression_sum": 0.575,
+        "avoidance_sum": 0.4875,
+        "reappraisal_sum": 0.4125,
+        "label": 1
+      },
+      "roya.sahel74@yahoo.com": {
+        "Email=": "roya.sahel74@yahoo.com",
+        "supression_sum": 0.575,
+        "avoidance_sum": 0.3375,
+        "reappraisal_sum": 0.05,
+        "label": 0
+      },
+      "boshra.akb@gmail.com": {
+        "Email=": "boshra.akb@gmail.com",
+        "supression_sum": 0.325,
+        "avoidance_sum": 0.2125,
+        "reappraisal_sum": 0.5,
+        "label": 1
+      },
+      "zadikasghari@gmail.com": {
+        "Email=": "zadikasghari@gmail.com",
+        "supression_sum": 0.6125,
+        "avoidance_sum": 0.55,
+        "reappraisal_sum": 0.325,
+        "label": 0
+      },
+      "fahimsara356@gmail.com": {
+        "Email=": "fahimsara356@gmail.com",
+        "supression_sum": 0.3375,
+        "avoidance_sum": 0.475,
+        "reappraisal_sum": 0.2,
+        "label": 0
+      },
+      "k.bashkool@gmail.com": {
+        "Email=": "k.bashkool@gmail.com",
+        "supression_sum": 0.45,
+        "avoidance_sum": 0.1625,
+        "reappraisal_sum": 0.7125,
+        "label": 1
+      },
+      "sadatahmadi1998.fa@gmail.com": {
+        "Email=": "sadatahmadi1998.fa@gmail.com",
+        "supression_sum": 0.225,
+        "avoidance_sum": 0,
+        "reappraisal_sum": 0.5875,
+        "label": 1
+      },
+      "aliali.ah406@gmail.com": {
+        "Email=": "aliali.ah406@gmail.com",
+        "supression_sum": 0.4875,
+        "avoidance_sum": 0.875,
+        "reappraisal_sum": 0.1875,
+        "label": 0
+      },
+      "naser.dn@gmail.com": {
+        "Email=": "naser.dn@gmail.com",
+        "supression_sum": 0.275,
+        "avoidance_sum": 0.3625,
+        "reappraisal_sum": 0.2625,
+        "label": 1
+      },
+      "marziyhbayat@gmail.com": {
+        "Email=": "marziyhbayat@gmail.com",
+        "supression_sum": 0.4875,
+        "avoidance_sum": 0.5125,
+        "reappraisal_sum": 0.4375,
+        "label": 1
+      },
+      "faeze.tsh98@gmail.com": {
+        "Email=": "faeze.tsh98@gmail.com",
+        "supression_sum": 0.4375,
+        "avoidance_sum": 0.6125,
+        "reappraisal_sum": 0.5375,
+        "label": 1
+      },
+      "af_shiraz91@yahoo.com": {
+        "Email=": "af_shiraz91@yahoo.com",
+        "supression_sum": 0.375,
+        "avoidance_sum": 0.3375,
+        "reappraisal_sum": 0.1625,
+        "label": 0
+      },
+      "mhs.2003557@gmail.com": {
+        "Email=": "mhs.2003557@gmail.com",
+        "supression_sum": 0.3875,
+        "avoidance_sum": 0.4375,
+        "reappraisal_sum": 0.3625,
+        "label": 1
+      },
+      "mrzmrz1379@gmail.com": {
+        "Email=": "mrzmrz1379@gmail.com",
+        "supression_sum": 0.4875,
+        "avoidance_sum": 0.4375,
+        "reappraisal_sum": 0.525,
+        "label": 1
+      },
+      "saman.zavari@ut.ac.ir": {
+        "Email=": "saman.zavari@ut.ac.ir",
+        "supression_sum": 0.325,
+        "avoidance_sum": 0.225,
+        "reappraisal_sum": 0.3875,
+        "label": 1
+      },
+      "maliakbarzadeh@yahoo.com": {
+        "Email=": "maliakbarzadeh@yahoo.com",
+        "supression_sum": 0.275,
+        "avoidance_sum": 0.175,
+        "reappraisal_sum": 0.3125,
+        "label": 1
+      },
+      "elahedehsangi81@gmail.com": {
+        "Email=": "elahedehsangi81@gmail.com",
+        "supression_sum": 0.475,
+        "avoidance_sum": 0.425,
+        "reappraisal_sum": 0.4125,
+        "label": 1
+      },
+      "imannakhai0@gmail.com": {
+        "Email=": "imannakhai0@gmail.com",
+        "supression_sum": 0.2,
+        "avoidance_sum": 0.0625,
+        "reappraisal_sum": 0.85,
+        "label": 1
+      },
+      "smahdi.h2000p@gmail.com": {
+        "Email=": "smahdi.h2000p@gmail.com",
+        "supression_sum": 0.3625,
+        "avoidance_sum": 0.4125,
+        "reappraisal_sum": 0.4625,
+        "label": 1
+      },
+      "m.h.khalaji@gmail.com": {
+        "Email=": "m.h.khalaji@gmail.com",
+        "supression_sum": 0.3625,
+        "avoidance_sum": 0.225,
+        "reappraisal_sum": 0.4875,
+        "label": 1
+      },
+      "darkknightg55@gmail.com": {
+        "Email=": "darkknightg55@gmail.com",
+        "supression_sum": 0.3875,
+        "avoidance_sum": 0.3375,
+        "reappraisal_sum": 0.2875,
+        "label": 1
+      },
+      "zamanizahra725@gmail.com": {
+        "Email=": "zamanizahra725@gmail.com",
+        "supression_sum": 0.7,
+        "avoidance_sum": 0.775,
+        "reappraisal_sum": 0.3375,
+        "label": 0
+      },
+      "sim.mousavi@gmail.com": {
+        "Email=": "sim.mousavi@gmail.com",
+        "supression_sum": 0.4,
+        "avoidance_sum": 0.4625,
+        "reappraisal_sum": 0.475,
+        "label": 1
+      },
+      "mm.motahari.2001@gmail.com": {
+        "Email=": "mm.motahari.2001@gmail.com",
+        "supression_sum": 0.4875,
+        "avoidance_sum": 0.325,
+        "reappraisal_sum": 0.575,
+        "label": 0
+      },
+      "mahyam0@gmail.com": {
+        "Email=": "mahyam0@gmail.com",
+        "supression_sum": 0.55,
+        "avoidance_sum": 0.2625,
+        "reappraisal_sum": 0.3625,
+        "label": 1
+      },
+      "Farideh.fallah1990@gmail.com": {
+        "Email=": "Farideh.fallah1990@gmail.com",
+        "supression_sum": 0.4125,
+        "avoidance_sum": 0.15,
+        "reappraisal_sum": 0.2,
+        "label": 1
+      },
+      "matin.zamani99@gmail.com": {
+        "Email=": "matin.zamani99@gmail.com",
+        "supression_sum": 0.3625,
+        "avoidance_sum": 0.1625,
+        "reappraisal_sum": 0.5125,
+        "label": 1
+      },
+      "Kiumarskarimi712@gmail.com": {
+        "Email=": "Kiumarskarimi712@gmail.com",
+        "supression_sum": 0.5125,
+        "avoidance_sum": 0.4,
+        "reappraisal_sum": 0.6,
+        "label": 1
+      },
+      "MRamezani.1992@yahoo.com": {
+        "Email=": "MRamezani.1992@yahoo.com",
+        "supression_sum": 0.3125,
+        "avoidance_sum": 0.2125,
+        "reappraisal_sum": 0.65,
+        "label": 1
+      },
+      "fatemeh.rezi78@gmail.com": {
+        "Email=": "fatemeh.rezi78@gmail.com",
+        "supression_sum": 0.4375,
+        "avoidance_sum": 0.275,
+        "reappraisal_sum": 0.65,
+        "label": 1
+      },
+      "sanazjamaki176@gmail.com": {
+        "Email=": "sanazjamaki176@gmail.com",
+        "supression_sum": 0.2875,
+        "avoidance_sum": 0.1125,
+        "reappraisal_sum": 0.4875,
+        "label": 1
+      },
+      "rezvanbahmaniii@gmail.com": {
+        "Email=": "rezvanbahmaniii@gmail.com",
+        "supression_sum": 0.1875,
+        "avoidance_sum": 0.4375,
+        "reappraisal_sum": 0.5375,
+        "label": 1
+      },
+      "n.shadman22@gmail.com": {
+        "Email=": "n.shadman22@gmail.com",
+        "supression_sum": 0.175,
+        "avoidance_sum": 0.175,
+        "reappraisal_sum": 0.3125,
+        "label": 1
+      },
+      "www.jardanijardanovic@gmail.com": {
+        "Email=": "www.jardanijardanovic@gmail.com",
+        "supression_sum": 0.4875,
+        "avoidance_sum": 0.4125,
+        "reappraisal_sum": 0.325,
+        "label": 0
+      },
+      "pardissod@gmail.com": {
+        "Email=": "pardissod@gmail.com",
+        "supression_sum": 0.3875,
+        "avoidance_sum": 0.6875,
+        "reappraisal_sum": 0.0875,
+        "label": 0
+      },
+      "negin.ghasemi7@gmail.com": {
+        "Email=": "negin.ghasemi7@gmail.com",
+        "supression_sum": 0.4875,
+        "avoidance_sum": 0.325,
+        "reappraisal_sum": 0.5125,
+        "label": 1
+      },
+      "hamidzdi@yahoo.com": {
+        "Email=": "hamidzdi@yahoo.com",
+        "supression_sum": 0.2625,
+        "avoidance_sum": 0.4375,
+        "reappraisal_sum": 0.3375,
+        "label": 1
+      },
+      "takeen.jazayeri@yahoo.com": {
+        "Email=": "takeen.jazayeri@yahoo.com",
+        "supression_sum": 0.6,
+        "avoidance_sum": 0.5125,
+        "reappraisal_sum": 0.45,
+        "label": 1
+      },
+      "elnazhasanpour95@gmail.com": {
+        "Email=": "elnazhasanpour95@gmail.com",
+        "supression_sum": 0.7375,
+        "avoidance_sum": 0.6875,
+        "reappraisal_sum": 0.775,
+        "label": 1
+      },
+      "nasrhamed076@gmail.com": {
+        "Email=": "nasrhamed076@gmail.com",
+        "supression_sum": 0.2375,
+        "avoidance_sum": 0.0125,
+        "reappraisal_sum": 0.5875,
+        "label": 1
+      },
+      "raziyeh.yeganeh@yahoo.com": {
+        "Email=": "raziyeh.yeganeh@yahoo.com",
+        "supression_sum": 0.2125,
+        "avoidance_sum": 0.3375,
+        "reappraisal_sum": 0.1,
+        "label": 0
+      },
+      "sepidardalan940@gmail.com": {
+        "Email=": "sepidardalan940@gmail.com",
+        "supression_sum": 0.2625,
+        "avoidance_sum": 0.325,
+        "reappraisal_sum": 0.35,
+        "label": 1
+      },
+      "zeinabshahinfard@gmail.com": {
+        "Email=": "zeinabshahinfard@gmail.com",
+        "supression_sum": 0.625,
+        "avoidance_sum": 0.4,
+        "reappraisal_sum": 0.5,
+        "label": 1
+      },
+      "mohammad.shirvani0110@gmail.com": {
+        "Email=": "mohammad.shirvani0110@gmail.com",
+        "supression_sum": 0.5,
+        "avoidance_sum": 0.4375,
+        "reappraisal_sum": 0,
+        "label": 0
+      },
+      "rozhanrashidi90@gmail.com": {
+        "Email=": "rozhanrashidi90@gmail.com",
+        "supression_sum": 0.5125,
+        "avoidance_sum": 0.6125,
+        "reappraisal_sum": 0.275,
+        "label": 0
+      },
+      "fasohrabvandi@gmail.com": {
+        "Email=": "fasohrabvandi@gmail.com",
+        "supression_sum": 0.4875,
+        "avoidance_sum": 0.5,
+        "reappraisal_sum": 0.4125,
+        "label": 0
+      },
+      "2005ngivzad@gmail.com": {
+        "Email=": "2005ngivzad@gmail.com",
+        "supression_sum": 0.45,
+        "avoidance_sum": 0.325,
+        "reappraisal_sum": 0.4625,
+        "label": 1
+      },
+      "iman.jalili@outlook.com": {
+        "Email=": "iman.jalili@outlook.com",
+        "supression_sum": 0.35,
+        "avoidance_sum": 0.375,
+        "reappraisal_sum": 0.425,
+        "label": 1
+      },
+      "poriaes2002@gmail.com": {
+        "Email=": "poriaes2002@gmail.com",
+        "supression_sum": 0.4375,
+        "avoidance_sum": 0.25,
+        "reappraisal_sum": 0.4,
+        "label": 1
+      },
+      "zegg65@gmail.com": {
+        "Email=": "zegg65@gmail.com",
+        "supression_sum": 0.4875,
+        "avoidance_sum": 0.3125,
+        "reappraisal_sum": 0.4125,
+        "label": 1
+      },
+      "N_karimi_y@yahoo.com": {
+        "Email=": "N_karimi_y@yahoo.com",
+        "supression_sum": 0.6125,
+        "avoidance_sum": 0.625,
+        "reappraisal_sum": 0.1375,
+        "label": 0
+      },
+      "rh_amini@yahoo.com": {
+        "Email=": "rh_amini@yahoo.com",
+        "supression_sum": 0.325,
+        "avoidance_sum": 0.325,
+        "reappraisal_sum": 0.0375,
+        "label": 1
+      },
+      "anahitamahmoodi459@gmail.com": {
+        "Email=": "anahitamahmoodi459@gmail.com",
+        "supression_sum": 0.3625,
+        "avoidance_sum": 0.525,
+        "reappraisal_sum": 0.35,
+        "label": 0
+      },
+      "parsasiavash14@gmail.com": {
+        "Email=": "parsasiavash14@gmail.com",
+        "supression_sum": 0.3,
+        "avoidance_sum": 0.4,
+        "reappraisal_sum": 0.2375,
+        "label": 1
+      },
+      "shamim.shooshtari@gmail.com": {
+        "Email=": "shamim.shooshtari@gmail.com",
+        "supression_sum": 0.225,
+        "avoidance_sum": 0.225,
+        "reappraisal_sum": 0.6,
+        "label": 1
+      },
+      "mahjoo2003@yahoo.com": {
+        "Email=": "mahjoo2003@yahoo.com",
+        "supression_sum": 0.2125,
+        "avoidance_sum": 0.375,
+        "reappraisal_sum": 0.1625,
+        "label": 1
+      },
+      "ftm.kamali93@gmail.com": {
+        "Email=": "ftm.kamali93@gmail.com",
+        "supression_sum": 0.2625,
+        "avoidance_sum": 0.25,
+        "reappraisal_sum": 0.55,
+        "label": 1
+      },
+      "aghababazade.vahid@gmail.com": {
+        "Email=": "aghababazade.vahid@gmail.com",
+        "supression_sum": 0.3875,
+        "avoidance_sum": 0.4,
+        "reappraisal_sum": 0.3375,
+        "label": 1
+      },
+      "ybanisadr@gmail.com": {
+        "Email=": "ybanisadr@gmail.com",
+        "supression_sum": 0.6,
+        "avoidance_sum": 0.5875,
+        "reappraisal_sum": 0.4625,
+        "label": 1
+      },
+      "sinazolfagharis@yahoo..com": {
+        "Email=": "sinazolfagharis@yahoo..com",
+        "supression_sum": 0.5375,
+        "avoidance_sum": 0.6125,
+        "reappraisal_sum": 0.5375,
+        "label": 1
+      },
+      "rodrik.v@gmail.com": {
+        "Email=": "rodrik.v@gmail.com",
+        "supression_sum": 0.525,
+        "avoidance_sum": 0.4375,
+        "reappraisal_sum": 0.575,
+        "label": 1
+      },
+      "mohannataleghanichirani2@gmail.com": {
+        "Email=": "mohannataleghanichirani2@gmail.com",
+        "supression_sum": 0.4375,
+        "avoidance_sum": 0.4,
+        "reappraisal_sum": 0.5625,
+        "label": 1
+      },
+      "narges_libra_1st@yahoo.com": {
+        "Email=": "narges_libra_1st@yahoo.com",
+        "supression_sum": 0.425,
+        "avoidance_sum": 0.625,
+        "reappraisal_sum": 0.375,
+        "label": 1
+      },
+      "mha.karimian18@yahoo.com": {
+        "Email=": "mha.karimian18@yahoo.com",
+        "supression_sum": 0.725,
+        "avoidance_sum": 0.4125,
+        "reappraisal_sum": 0.575,
+        "label": 1
+      },
+      "sara.lh13@yahoo.com": {
+        "Email=": "sara.lh13@yahoo.com",
+        "supression_sum": 0.125,
+        "avoidance_sum": 0.1375,
+        "reappraisal_sum": 0.725,
+        "label": 1
+      },
+      "sabersap@gmail.com": {
+        "Email=": "sabersap@gmail.com",
+        "supression_sum": 0.2875,
+        "avoidance_sum": 0.1875,
+        "reappraisal_sum": 0.4375,
+        "label": 0
+      },
+      "ftzr216@gmail.com": {
+        "Email=": "ftzr216@gmail.com",
+        "supression_sum": 0.75,
+        "avoidance_sum": 0.6,
+        "reappraisal_sum": 0.375,
+        "label": 1
+      },
+      "ermia.emranaref1996@outlook.com": {
+        "Email=": "ermia.emranaref1996@outlook.com",
+        "supression_sum": 0.525,
+        "avoidance_sum": 0.4375,
+        "reappraisal_sum": 0.4625,
+        "label": 1
+      },
+      "f.kamalkhani88@gmail.com": {
+        "Email=": "f.kamalkhani88@gmail.com",
+        "supression_sum": 0.2125,
+        "avoidance_sum": 0.2625,
+        "reappraisal_sum": 0.375,
+        "label": 1
+      },
+      "jason.parsa82@gmail.com": {
+        "Email=": "jason.parsa82@gmail.com",
+        "supression_sum": 0.4125,
+        "avoidance_sum": 0.225,
+        "reappraisal_sum": 0.6125,
+        "label": 1
+      },
+      "sepideh137926@gmail.com": {
+        "Email=": "sepideh137926@gmail.com",
+        "supression_sum": 0.5625,
+        "avoidance_sum": 0.3,
+        "reappraisal_sum": 0.625,
+        "label": 1
+      }
+    }
+  ]
+}
